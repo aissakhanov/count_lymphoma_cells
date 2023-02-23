@@ -1,0 +1,1084 @@
+Image,Object ID,Name,Class,Parent,ROI,Centroid X µm,Centroid Y µm,Area µm^2,Perimeter µm
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,03ea6fb2-5ec1-481a-9fa5-64b785ea4c7b,PathAnnotationObject,,Image,Polygon,6380.5,73658.7,16805732.9,16171.7
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,c8b1ed24-ef9c-4790-8912-7581e8188d4f,PathAnnotationObject,,Image,Polygon,2576.6,78080.4,23247930.6,19309.5
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,b81dce39-11c0-4cef-9bb2-6f23f3169a83,PathAnnotationObject,,Image,Polygon,12076.1,78996.2,20341939.2,22019.9
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,92640825-39af-406b-b419-297474c9d4ee,PathAnnotationObject,,Image,Polygon,69511.9,78856.8,23983181.4,23078.4
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,3ae1170a-4b6e-4edd-83a5-f3ceb04cc3b3,PathAnnotationObject,,Image,Polygon,86895.2,78655.6,31720820.9,26847.3
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,ebff2914-c6b4-4ac6-99d3-38ba7f5967ea,PathAnnotationObject,,Image,Polygon,32360.3,66638.4,23458002.2,20314.8
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,d5f58acb-6b74-41c0-8642-5483fcf65452,PathAnnotationObject,,Image,Polygon,33108.3,59390.9,20744576.6,17714
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,03197125-a298-491e-a604-fb29ec7413ea,PathAnnotationObject,,Image,Polygon,1238.3,55475.6,19046497.3,20057.9
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,ab2615a3-61a2-483a-b48d-fb66f44e8802,PathAnnotationObject,,Image,Polygon,4157.5,45819.5,25488695,20004.8
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,ea9a9394-bbcb-4644-b9da-50847c7d786f,PathAnnotationObject,,Image,Polygon,61072.9,38429.7,33243840.5,23070.6
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,ca97f31c-461e-4e57-b4a1-709f62c1e968,PathAnnotationObject,,Image,Polygon,45494.1,44739.1,44325120.6,26174
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,56922b90-f000-443d-985e-6db463e0d946,PathAnnotationObject,,Image,Polygon,37054.3,41674.5,43204738.4,25516.4
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,ce935910-ef59-49e1-a872-06a17e41cd43,PathAnnotationObject,,Image,Polygon,63271.3,6236.4,68133242.3,34513.5
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,88937909-c6d2-40c7-b622-3d9ea53c9e2a,PathAnnotationObject,,Image,Polygon,52972.6,72428,79372076.2,36876.2
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,ad265727-5a05-4d27-af05-0aaa58ebb176,PathAnnotationObject,,Image,Polygon,23928.1,24515.5,50294657,28608.8
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,95a3d02b-a787-44e5-8621-1d086ab6a93f,PathAnnotationObject,,Image,Polygon,70101.3,14936.3,54723667.9,30616.2
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,d371506d-9a7d-49e4-bcdd-701056ee37a3,PathAnnotationObject,,Image,Polygon,79156.6,48922.9,38793233.5,23709.4
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,000521f9-4c74-4d6c-8df8-7cdfdc6774f1,PathAnnotationObject,,Image,Polygon,85023.7,73181,91976375.9,41442.2
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,d8b2b503-e353-4bbe-ae12-71ff75357613,PathAnnotationObject,,Image,Polygon,77954.7,30661.1,52833022.9,29867.7
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,38e4efb3-a78e-4e35-b4f0-564ac5dedd42,PathAnnotationObject,,Image,Polygon,37715.3,6945.9,84606361.8,37825.1
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,67b2d8a5-619a-41c9-ae2a-5de4397e1315,PathAnnotationObject,,Image,Polygon,7476.5,61689,128984000.3,46670.4
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,c66bb4f0-a197-4d10-a359-4ab1a3147a57,PathAnnotationObject,,Image,Polygon,25911.9,7984.9,70479042.5,35507.7
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,7569e0c8-42bb-4dec-a34f-b3918454e678,PathAnnotationObject,,Image,Polygon,48057.9,11351.9,29970223.7,21645.7
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,5910e8e7-22dc-461a-a488-c3da9b5808dc,PathAnnotationObject,,Image,Polygon,60279.4,51939.3,99714015.4,41378
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,1e976ea3-77ad-4868-9d68-7559af5ece7a,PathAnnotationObject,,Image,Polygon,8990.9,7018.3,74645463.8,34770.3
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,65da7a28-9a12-4190-ae26-87975b56d1fe,PathAnnotationObject,,Image,Polygon,77641.3,8362.7,39038317.1,24885.3
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,87cf1bea-c5a3-4936-9f48-ff75fd52d167,PathAnnotationObject,,Image,Polygon,64086.6,23862.1,52167796,31519.6
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,db103650-fb20-423a-81a1-ff1cfb604611,PathAnnotationObject,,Image,Polygon,85584.5,22835.8,67397991.5,32952.3
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,db100a2a-91da-423a-946e-ee476c7af666,PathAnnotationObject,,Image,Polygon,11506.3,42669.5,68868493.1,33337.6
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,ba4f866c-bfef-4a1f-bc5b-f98dc25263ba,PathAnnotationObject,,Image,Polygon,68727.7,65038.5,75450738.5,34872.1
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,3b19dd91-e32f-4cee-8428-1fac17e25a2b,PathAnnotationObject,,Image,Polygon,14650,23616.1,48561565.8,27970
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,508dbb0d-9a0f-414a-b509-dcc05edf97b0,PathAnnotationObject,,Image,Polygon,59605.7,60858.4,57489611.4,29039.5
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,595cba0d-1682-457f-b57d-f69bbfc7d0d1,PathAnnotationObject,,Image,Polygon,79614.4,15783.9,68728445.3,33262.4
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,eb3c4432-b9c6-46cf-b000-08b72d0983b1,PathAnnotationObject,,Image,Polygon,18996.6,13003.1,50592258.5,27606.7
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,bbd1c7fe-eb14-48e5-931b-70858484cf51,PathAnnotationObject,,Image,Polygon,51702.1,56242.4,57629659.2,29767.4
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,5becdef1-04f8-439e-a9fd-b3ccb6ad6d1d,PathAnnotationObject,,Image,Polygon,43016.1,78606.7,24998527.7,22704.2
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,a0cb7b8c-9134-4fce-aee9-1e7092c0a48e,PathAnnotationObject,,Image,Polygon,62337,71843.8,51362521.3,30215.3
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,5d4dc1ba-ae3f-4b9c-a5f4-1766c9d3a9aa,PathAnnotationObject,,Image,Polygon,69725.7,44178.1,95162462.8,37764.1
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,44e3c76d-ee0b-43ad-8ea2-eaa52349608a,PathAnnotationObject,,Image,Polygon,30537.7,75987.1,92431531.2,38929
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,a5968d6b-cd60-42cd-ac43-626de6eb5756,PathAnnotationObject,,Image,Polygon,73655.8,58038.2,70969209.7,33156
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,32b94a85-eaa9-4f73-8513-7cf62e396b66,PathAnnotationObject,,Image,Polygon,13201.7,72679.7,47563725.4,26529.5
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,dd694d57-89c4-4b97-8b14-6cad5aac93ee,PathAnnotationObject,,Image,Polygon,44180,69705.1,89140408.5,37469.7
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,7d9592b1-b2e6-44b8-84d6-b92a5baf312a,PathAnnotationObject,,Image,Polygon,55491.5,9815,69603743.9,35133.5
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,88a9410f-982d-4405-be6c-0afcdaaaf878,PathAnnotationObject,,Image,Polygon,71609.7,24311.9,54583620.1,30525.4
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,e8ff7147-de86-405b-9657-40ce9ac6e9d0,PathAnnotationObject,,Image,Polygon,43081,16082.4,30530414.8,22469.4
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,500a1b1f-6d80-4928-82bd-306c7afd4cab,PathAnnotationObject,,Image,Polygon,32322.1,18073.7,87354799.3,35583
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,13ca0a57-b0d8-4afd-ab8f-b17cc01ed43f,PathAnnotationObject,,Image,Polygon,33294.6,28439.9,81892936.1,38153.9
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,35c00976-81a2-4f28-b3d5-d2c2340031b7,PathAnnotationObject,,Image,Polygon,39228.2,25494.9,34451752.5,25259.6
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,4c003ce6-be07-4c3d-a57c-2e0f5553bacd,PathAnnotationObject,,Image,Polygon,51064.1,19695.8,77551455.1,33556.8
+L04-2 Cryo Exp 15 ms Gain 1 Satur 100.tif,87c09e2e-e8cd-4dc9-969a-d4c2cc014bc3,PathAnnotationObject,,Image,Polygon,29665.5,35491,46425837.2,30461.2
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,7c41037d-968d-4329-8845-46466ea0e382,PathAnnotationObject,,Image,Polygon,15025.4,28197.6,58890089.2,29158
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,f5d8e1f5-3ee7-4bdc-b3bf-d39d9b8efd64,PathAnnotationObject,,Image,Polygon,24553.1,27750.2,52628553.3,28002.4
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,0302028e-72e5-45fa-9d9b-0bda540ce7d7,PathAnnotationObject,,Image,Polygon,49918.4,7761.3,67783122.9,31774.1
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,f93dfd79-945a-4d62-ac3e-a318a0addddf,PathAnnotationObject,,Image,Polygon,57940.9,31384.5,75100619.1,33321.7
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,ae76a240-d419-46c4-ad17-fe8f62fc3c62,PathAnnotationObject,,Image,Polygon,31609.2,32497.5,34521776.4,22226.7
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,d60683ee-bf7a-49ef-a973-419f6c90aa64,PathAnnotationObject,,Image,Polygon,29917.1,46425.5,43070642.6,25576.8
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,cdff400f-0ce0-4673-81da-29e585e5babf,PathAnnotationObject,,Image,Polygon,2533.7,56455.7,46968522.4,28570.8
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,36350d92-5c19-43ce-8560-9078de5df0e3,PathAnnotationObject,,Image,Polygon,19818.2,61982.2,75614244.2,34673
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,f2e47cc7-cd03-46bf-90b3-d147e4ca6948,PathAnnotationObject,,Image,Polygon,51252,57079,30915546.2,26654.6
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,67695852-8a43-4eaf-a2b9-d2917421a8a8,PathAnnotationObject,,Image,Polygon,56990,52471.7,57314551.7,29090.3
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,f79a8245-8ac7-41b2-9943-6700b16178e0,PathAnnotationObject,,Image,Polygon,61575.2,78258.9,71914532.2,41280.8
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,adb99a41-afbc-413a-8df6-611a58828fde,PathAnnotationObject,,Image,Polygon,101997,25058.1,46250777.5,26324.4
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,555eeeac-78db-4ae6-a43e-a83515b14610,PathAnnotationObject,,Image,Polygon,113777.6,18371.9,54391054.4,28240.2
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,acb29efc-9f85-48b2-8e25-65c5cd28572b,PathAnnotationObject,,Image,Polygon,115792.4,88978.1,33401394.2,28579
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,784b0f08-72ac-4591-98ca-67df9fc8b4ac,PathAnnotationObject,,Image,Polygon,62399.8,69067,57349563.7,35459.1
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,42dc0ee8-5ae3-4949-8780-477f3bbb875f,PathAnnotationObject,,Image,Polygon,110428,33841.8,88982854.7,35239.8
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,0318bc2b-210f-41d5-9e2d-94f608ec8a87,PathAnnotationObject,,Image,Polygon,28233,70202.6,63021498.5,35405.9
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,e30806dc-0815-4c90-ac8c-076a859621e0,PathAnnotationObject,,Image,Polygon,68036.2,58045.7,82908282.5,41666
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,59df30ff-7d00-49bb-ab01-de20de15ecec,PathAnnotationObject,,Image,Polygon,109111.4,68798.7,106611368.3,42383.6
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,42eed377-d9c2-406a-bd57-4387965a9046,PathAnnotationObject,,Image,Polygon,80722.8,84593,26539053.3,22757.3
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,1eb9c48e-34ef-465a-aedd-b4fc76466f26,PathAnnotationObject,,Image,Polygon,114886,62095.7,53760839.4,30374.2
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,8721c52c-075d-4876-95ba-bcd7275fd09f,PathAnnotationObject,,Image,Polygon,110033.1,81609,54198488.7,32812.9
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,84532d08-3652-45e2-a600-f06d9e403c44,PathAnnotationObject,,Image,Polygon,64776.3,22333.4,88201038,35174.9
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,025cdce0-bc20-43a7-91b5-3086e8f8affe,PathAnnotationObject,,Image,Polygon,44921.2,26772.6,79984785.2,33574.3
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,42f69be5-fbbe-42f1-9a22-13eb10a1d067,PathAnnotationObject,,Image,Polygon,68615.6,49696.6,53988417.1,32230.5
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,ea83b8ab-5400-46b8-be44-26f7261ac87d,PathAnnotationObject,,Image,Polygon,55785.4,15017.2,137316842.9,46752.9
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,6b998201-c13d-41a7-a663-e54311af351a,PathAnnotationObject,,Image,Polygon,72314.4,37038.2,114967668.3,42902.6
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,522b4029-9339-465c-b904-c5276c380276,PathAnnotationObject,,Image,Polygon,7872.8,49684.1,84238736.4,35175.8
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,43254e53-2bd9-471b-9fa9-6333137231d8,PathAnnotationObject,,Image,Polygon,61594.2,42913.6,63091522.4,35715.9
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,a4359c10-ed8c-43d4-b865-2e60afa0edbb,PathAnnotationObject,,Image,Polygon,50825.5,74201.3,72667289,31595.3
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,6946cdaa-653f-485f-9032-c0ec4e255b69,PathAnnotationObject,,Image,Polygon,89889.2,81675,43904977.3,30733.6
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,4866095e-d881-4dc5-960c-38059d45650c,PathAnnotationObject,,Image,Polygon,86385.2,74867.3,71599424.7,38207.1
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,b87e5a74-2613-486c-ab08-494055194c03,PathAnnotationObject,,Image,Polygon,108655.6,88617.2,22407643.9,20111.1
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,ccf8c824-4399-4b1b-9c4c-b848b40df231,PathAnnotationObject,,Image,Polygon,40393.9,83995.7,70058899.2,35871
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,39043c7d-d612-4737-888b-da41deee1ae8,PathAnnotationObject,,Image,Polygon,32373.5,57854.2,83573509.4,39484.8
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,ad32641a-f148-459c-acb1-860476c293f2,PathAnnotationObject,,Image,Polygon,104328.9,93542.3,49121756.9,32786.3
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,ba9ad796-e528-4d09-9cc3-9e5542969f08,PathAnnotationObject,,Image,Polygon,5972.1,33275.7,88142568.1,35330.6
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,4ab9b300-892f-446e-b3e4-cdc79b859027,PathAnnotationObject,,Image,Polygon,48488.3,86300.1,64176892.7,35560.9
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,f8706a56-8b01-444d-827a-43691d7b5655,PathAnnotationObject,,Image,Polygon,57907.7,63154.1,41734236.8,28835.8
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,a9e06fb3-e5ec-4acf-bae6-d42b436f245d,PathAnnotationObject,,Image,Polygon,94208.4,44813,174692092.7,50770.9
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,af5c3e07-845d-4744-9cc9-b032ff9f19dc,PathAnnotationObject,,Image,Polygon,69436.2,84966,86899644.1,41810
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,6f3cee4a-4be4-4295-a10d-23cc27687663,PathAnnotationObject,,Image,Polygon,92139.7,91493.6,107679232.6,39849.1
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,60749cb4-7641-4ba2-b188-9f69d0728b68,PathAnnotationObject,,Image,Polygon,58231.5,89714.2,53638297.6,32540.5
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,5c895666-cd72-4761-b0a0-79ad6cb2bbd9,PathAnnotationObject,,Image,Polygon,38847.7,49853.9,59800399.7,34967.5
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,308be2e6-6332-4206-b7d0-9385b6f1e52d,PathAnnotationObject,,Image,Polygon,86799.5,58463.2,83731063.2,35192.1
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,446bf44d-60ac-42fe-9d3a-709c2e839ea7,PathAnnotationObject,,Image,Polygon,78674.1,62339.5,51047413.8,33871.4
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,611b8d4e-cf82-407b-ae6d-e7c5c5629319,PathAnnotationObject,,Image,Polygon,41688.4,14729.8,59607834,28787.1
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,4f583e12-59a5-4a9c-9d98-7104d4a28199,PathAnnotationObject,,Image,Polygon,76742.3,69930.9,49366840.5,31754.4
+L-04-2 Cryo Exp 20 ms Gain 1 Satur 100.tif,b732629c-7e2c-4b99-8dd6-c386e98344bd,PathAnnotationObject,,Image,Polygon,1782,68653.9,20937142.3,24345.1
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100 .tif,bf407cd4-d92e-47ab-9470-6372db7e6f75,PathAnnotationObject,,Image,Polygon,15592.4,38080.8,61200877.5,31065.6
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,23d63555-9848-4864-8f1a-26e725613699,PathAnnotationObject,,Image,Polygon,59113.1,97541.6,41454141.3,26537.3
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,2dc83084-fe54-48b8-aed9-7abc479d89c7,PathAnnotationObject,,Image,Polygon,99444.4,90588,26714113,21838.3
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,e2aa1177-39b6-48ca-a836-2032fb96a251,PathAnnotationObject,,Image,Polygon,63694.7,75606.4,57874742.8,30290.6
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,baf86be2-f82d-4bc8-8882-75faafbaf5c6,PathAnnotationObject,,Image,Polygon,98700.4,54174.8,38233042.4,28654.2
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,ca672457-7add-46aa-9f20-ffc27338dc11,PathAnnotationObject,,Image,Polygon,46893.9,6841.9,52307843.8,29167.9
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,e785810c-cb73-4d11-888b-12b738ac8a0f,PathAnnotationObject,,Image,Polygon,18262.2,23487,48211446.4,27750.7
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,698ac505-9068-441c-9e0d-c173ad79508c,PathAnnotationObject,,Image,Polygon,31664.5,67171.3,52868034.9,31225.2
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,e24d9333-4de3-4ac3-969c-a27d890b42e0,PathAnnotationObject,,Image,Polygon,105305.9,104275.2,29970223.7,24874.3
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,cc053694-4ed0-4868-bd55-a73af876525d,PathAnnotationObject,,Image,Polygon,91279.6,97659.5,57489611.4,30370.3
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,c52f37b7-4154-40f7-a4b2-76e77101c24e,PathAnnotationObject,,Image,Polygon,84188.7,11124.4,67433003.4,38634.6
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,ab4327ac-3665-499e-bc68-b26cc6c07fd2,PathAnnotationObject,,Image,Polygon,95546.5,44989.6,55388894.8,32812.9
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,74b94b41-6e04-4179-b542-54bf6452ed9f,PathAnnotationObject,,Image,Polygon,96328.4,63819.3,25068551.6,22228.1
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,6d0eaf65-9d51-46ca-b47c-e31530b2c39f,PathAnnotationObject,,Image,Polygon,105410.9,19313.5,79897255.4,40020.1
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,61c07e91-e850-427a-be30-115320ea907f,PathAnnotationObject,,Image,Polygon,59758.5,35637.4,52377867.7,35459.1
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,005c1d9e-fe52-451f-9d16-8162dc68a090,PathAnnotationObject,,Image,Polygon,21633.4,15763.2,58539969.7,30680.4
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,045990a2-3ef8-4bc7-a33d-477c5bc53d3a,PathAnnotationObject,,Image,Polygon,64686.5,28651.1,56299205.3,36517.6
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,246b398e-a795-4e9e-8194-9797690d41da,PathAnnotationObject,,Image,Polygon,105964.6,50229.9,70303982.8,37046.8
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,6933e96c-696b-43de-94e2-53854a0c36b2,PathAnnotationObject,,Image,Polygon,56498.1,9506.7,44885311.7,30696
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,0cfc8a09-37a5-4c0a-9ffd-fcafa6dbfebb,PathAnnotationObject,,Image,Polygon,66975.5,93555.7,59555316.1,30525.4
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,6797b774-00fb-4bbd-b1a9-9193633cb603,PathAnnotationObject,,Image,Polygon,46275.2,26280.5,88160074,47631.6
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,ba29a21e-6069-450a-899f-5288e900c7b3,PathAnnotationObject,,Image,Polygon,21227.4,60683.9,78566801.5,39163.8
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,b36a6f04-eec4-4960-bc72-577bebdf5ac9,PathAnnotationObject,,Image,Polygon,13792.4,75581.6,31790844.8,26900.5
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,fe193b04-13af-4a5b-bda3-e7f70074fd45,PathAnnotationObject,,Image,Polygon,56009.3,2128.9,43554857.9,31754.4
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,e10e3334-242a-47fe-a094-07e1141d7e75,PathAnnotationObject,,Image,Polygon,13919.4,68356.5,47721279.2,30669.4
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,97d8037e-3da4-482b-98d4-b17ddfd3a8dc,PathAnnotationObject,,Image,Polygon,100640.8,69160.5,37707863.3,26216.2
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,8af59406-745b-4575-8b01-604e3786e8bf,PathAnnotationObject,,Image,Polygon,91182,88110.5,79091980.6,35817.8
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,8315e1aa-d2c2-4bec-aa23-853e5b751d21,PathAnnotationObject,,Image,Polygon,55850.5,84514.3,74400380.2,36256.2
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,ffdf724f-52f7-479e-b605-8475a1b70005,PathAnnotationObject,,Image,Polygon,8156.4,84455.7,46775956.7,31882.8
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,b8063bf6-3baf-4044-8aeb-25bd20fabd38,PathAnnotationObject,,Image,Polygon,98872.8,78932.3,51467557.1,31754.4
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,502340a8-bab0-46d3-88ab-2afa57bfde98,PathAnnotationObject,,Image,Polygon,106075.1,89161.6,35992278,25932.8
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,24d385b5-f34e-4414-bffb-063d77d28ee6,PathAnnotationObject,,Image,Polygon,8852.6,20071.1,43799941.5,26692.3
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,bf14005e-7019-495b-9bbf-5f9cb37eafdd,PathAnnotationObject,,Image,Polygon,59216,68053.8,60360590.8,35988.4
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,9cd0c88f-257e-450e-9bc7-6919ae79c4b6,PathAnnotationObject,,Image,Polygon,87396.8,32348.9,42504499.6,27119.7
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,722c1128-f032-44e6-93b8-0d441f501a67,PathAnnotationObject,,Image,Polygon,56264.3,75122,31370701.5,24874.3
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,7d89a6df-d04b-495f-a4b6-5503e299d95d,PathAnnotationObject,,Image,Polygon,34896.2,77576.2,92641602.8,42339.2
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,ac9d7b3d-72e9-4574-a615-a46a1626ed11,PathAnnotationObject,,Image,Polygon,77739.6,63476.1,39073329.1,28579
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,0490281d-dbe7-48f5-825b-62cf1e525136,PathAnnotationObject,,Image,Polygon,72390.9,53937.4,65682406.2,39693
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,c11b7f31-ec93-445f-bf93-b8f5c7596f87,PathAnnotationObject,,Image,Polygon,18600.3,89860.1,67538039.3,33700.8
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,ea8ae398-d26e-4231-a1a9-e1fa3a4b7dd7,PathAnnotationObject,,Image,Polygon,47790.4,91681.7,28079578.8,24874.3
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,ee702667-0781-48bf-bd2d-a7eb412e1874,PathAnnotationObject,,Image,Polygon,41519.6,94050.2,45830634.2,27767.8
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,45bd5215-7000-471f-a769-ffa019e7ff95,PathAnnotationObject,,Image,Polygon,102428.7,97898,92921698.4,43397.7
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,1e6ed113-a3f8-4804-8fc3-fe7828d4217b,PathAnnotationObject,,Image,Polygon,44003.4,101929.2,72439711.4,34048.4
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,3a782e60-58cc-4865-935e-3ff8e467997f,PathAnnotationObject,,Image,Polygon,43786.1,83010.4,43274762.3,28525.8
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,072d5a5b-c5c2-445f-8d6d-a2fe9511f710,PathAnnotationObject,,Image,Polygon,2802,41897.9,82138019.7,46043.9
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,822cc151-77f3-4736-959d-78c9f81e80e8,PathAnnotationObject,,Image,Polygon,106191.4,77995.2,40683878.5,31572.8
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,3cee0890-6fa6-431f-9cc3-383ac15d446c,PathAnnotationObject,,Image,Polygon,10156.3,60003.4,49646936.1,29455.9
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,e84a9782-a643-45d9-ac8b-d22e92be2c30,PathAnnotationObject,,Image,Polygon,84623.6,56154.4,57209515.9,34400.6
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,d8f836cc-d949-4b11-aacf-8ffdadb33a21,PathAnnotationObject,,Image,Polygon,78836.8,32255.7,60220543,34929.9
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,56371dc6-0bad-4717-b2ee-5271a417efbf,PathAnnotationObject,,Image,Polygon,10533.3,49919.8,55739014.2,34400.6
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,a38d6f43-0522-42a1-b1b9-6d39be591a7a,PathAnnotationObject,,Image,Polygon,92171.9,53447.8,59940447.5,32578.1
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,0bfd151c-cb37-4c5c-b9a0-1fdbfe56efe9,PathAnnotationObject,,Image,Polygon,59902.6,20416,60150519.1,35459.1
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,6e085320-68a9-4db8-85c7-72881f0ebab1,PathAnnotationObject,,Image,Polygon,11822.9,13405.2,53848369.3,30151.1
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,88dd94d4-fc8b-4d13-931f-2cbd3838d3d1,PathAnnotationObject,,Image,Polygon,89245.8,63477.5,60780734.1,34219
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,9e544742-b5da-4644-b493-ff35e49d3d8e,PathAnnotationObject,,Image,Polygon,25331.3,84265.4,59800399.7,36517.6
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,1ffe888b-c26f-4604-9654-f0b1b1d93ed6,PathAnnotationObject,,Image,Polygon,8961.6,29116.7,61901116.3,32358.9
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,a40a3b77-58f3-49f5-b80e-65612f36d397,PathAnnotationObject,,Image,Polygon,15650.1,46540.5,53568273.7,34929.9
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,07a7fe2f-39ad-4a24-8c99-7d406f75273f,PathAnnotationObject,,Image,Polygon,78019.5,92191.6,47721279.2,29028.4
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,cf923287-ac8c-4971-8c0f-e1ab6eacbe72,PathAnnotationObject,,Image,Polygon,24752.9,73209.9,78286705.9,39693
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,2e4d8a1c-5090-4f4d-a5dc-c7d5f9ddecb8,PathAnnotationObject,,Image,Polygon,80483.7,102124.5,72404699.4,33946.6
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,9eb9fd3b-a3af-4726-a230-4ec6ad258064,PathAnnotationObject,,Image,Polygon,55077,60934.8,60990805.8,35459.1
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,53a2a3bd-fe4f-4939-b14d-58db0c5766ce,PathAnnotationObject,,Image,Polygon,46169.8,63229.4,66242597.3,35988.4
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,31cdbb0c-39d8-48aa-9391-c205b24bee9c,PathAnnotationObject,,Image,Polygon,83405.7,2782.5,46775956.7,29108.2
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,cb15e8de-9eab-4a63-a828-06771d11488f,PathAnnotationObject,,Image,Polygon,97931.2,5056.8,65682406.2,38105.3
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,05f4e1f9-78d4-4bea-85a1-35ec0509a614,PathAnnotationObject,,Image,Polygon,48031.2,75056.8,63231570.2,35988.4
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,e53c3b03-d006-41b9-b52e-c07a7e29b999,PathAnnotationObject,,Image,Polygon,12279.8,88190.9,34346716.7,30979.4
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,918ba8ce-627c-415e-b4de-a21b49d4143e,PathAnnotationObject,,Image,Polygon,33993.3,53502.5,48071398.6,30306.1
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,abfffe6a-7cf3-4a22-83d6-99a1a9ff8a8f,PathAnnotationObject,,Image,Polygon,73246.5,44999.5,59380256.4,40222.3
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,4d71b4a3-99cc-443a-a673-4b867bff613a,PathAnnotationObject,,Image,Polygon,3265.9,92340.1,66452669,40222.3
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,10ce800c-5ec7-4124-a929-b5db774b1f76,PathAnnotationObject,,Image,Polygon,93775.7,35090.1,23282942.5,19902.9
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,70a1a68a-5a77-4265-b199-c6c1d7010d85,PathAnnotationObject,,Image,Polygon,76811.3,77657.7,83958640.8,40751.5
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,2a4e0dc5-2d07-4ba1-8f2a-de501afd46f1,PathAnnotationObject,,Image,Polygon,79118.5,20452.4,53673309.6,29156.9
+L-07 2 Cryo Exp 15 ms Gain 1 Satur 100.tif,7c625175-2e09-43a1-90b8-6b4749b890b8,PathAnnotationObject,,Image,Polygon,100722.4,35852.8,67993194.5,33855.8
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,374b5e7f-e386-4b78-bb8c-88a45c04686c,PathAnnotationObject,,Image,Polygon,69914.8,51781.1,26181623.3,21204.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,75ebf384-6bdc-427d-b9b3-26f845f6413e,PathAnnotationObject,,Image,Polygon,86248.1,26765.9,44960287.5,30061.4
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,6a887bf3-0d53-4591-81c4-d75916d3a751,PathAnnotationObject,,Image,Polygon,119048.5,116684.1,12110750.9,15255
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,7a1bf922-54e8-4dea-a72a-b0142aeb2991,PathAnnotationObject,,Image,Polygon,186237.8,87973.4,36542265.6,29633.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,af369d3e-5559-4734-bbfe-d7f78f30b20f,PathAnnotationObject,,Image,Polygon,141365.9,104822.5,34722152.8,27516.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,06759da5-8e04-479c-ad30-8bc958f06fec,PathAnnotationObject,,Image,Polygon,66628.2,61619.6,32061987.8,25400
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,a6ec9d5f-a9a8-46c3-9fdf-f7b3f7dc9a75,PathAnnotationObject,,Image,Polygon,80832.6,104679.5,11025683.6,13822.5
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,d69eb0e2-c780-44ee-8623-85b0fabb27f2,PathAnnotationObject,,Image,Polygon,60790.4,121862.8,74274605,32119.6
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,030539e0-a295-4396-920f-891b5984b10a,PathAnnotationObject,,Image,Polygon,225499.3,33148.5,52958283.4,34278.5
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,63eb504d-848b-4948-9e3c-08b4225a3dde,PathAnnotationObject,,Image,Polygon,181112.6,73127.5,41582578.1,29431.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,e8650303-6782-47f2-b6bb-ee6f9a466eb3,PathAnnotationObject,,Image,Polygon,218565.1,18423.3,43752712.7,29633.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,758dbb0c-d67b-4c74-9924-9aa6875b8280,PathAnnotationObject,,Image,Polygon,82235,78240.8,40252495.7,27992.6
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,491a1d69-5732-4161-b86a-b94820b89c37,PathAnnotationObject,,Image,Polygon,129921.7,64944.4,22366386.7,20701.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,4bad5e94-f392-4cc5-843a-a5e72b91da13,PathAnnotationObject,,Image,Polygon,139184.3,20637.4,22226378,20701.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,0c1b441a-b041-4409-af57-deddd3ccb7f2,PathAnnotationObject,,Image,Polygon,32287.8,14178.4,59153667.5,33866.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,05e2593d-c796-41c3-a824-3deeded56664,PathAnnotationObject,,Image,Polygon,166415.6,59398.5,28666777.3,22727.6
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,0c50ee21-7e52-432a-8f76-3fbca2a1ec0c,PathAnnotationObject,,Image,Polygon,184918.6,27922.2,52713268.2,32407.6
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,1b784a96-0ded-4277-b85b-6527210597a5,PathAnnotationObject,,Image,Polygon,176019.5,81586,58593632.8,33594.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,dbcf3e5c-49a8-431e-9af7-02e0b75ef3cc,PathAnnotationObject,,Image,Polygon,128877.3,56364.1,35002170.1,25127.6
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,b0fc1711-1e30-4c22-b394-8a5c06a56f45,PathAnnotationObject,,Image,Polygon,112910.3,80422.8,48372999.1,34925
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,bc177e34-f88c-4b8e-864f-a95b42d751ef,PathAnnotationObject,,Image,Polygon,207344.4,92627.2,27931731.8,24160.1
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,9e574a52-568c-4063-912b-752e50636928,PathAnnotationObject,,Image,Polygon,92575.1,34274.2,57613572,34395.8
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,f9c77e9a-02d2-47d3-9936-7ff1eba5a47b,PathAnnotationObject,,Image,Polygon,218258.9,74172.1,31991983.5,31623.1
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,71358af9-925c-4776-8726-a6760ea631fd,PathAnnotationObject,,Image,Polygon,94484.4,86704.6,27511705.7,26495.9
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,fdeba170-64f9-479e-89c9-cec226dba079,PathAnnotationObject,,Image,Polygon,86552.9,103636.6,36647272.1,28147.6
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,3664cdc1-ae4a-4027-85b5-65216d092f50,PathAnnotationObject,,Image,Polygon,120898.9,21174.2,63703949.7,39687.5
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,df6f1c43-242a-4a63-9513-ba7733074586,PathAnnotationObject,,Image,Polygon,89469.8,59323.3,42072608.5,27463.5
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,4a0920cf-c393-415b-8cd2-f60e401274b7,PathAnnotationObject,,Image,Polygon,22932.2,41749.6,28351757.8,24870.8
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,08b486aa-82bd-4489-a45c-5d4e75c6c9fc,PathAnnotationObject,,Image,Polygon,59147.1,48378.3,53868339.8,36288.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,72c0fcda-eaac-4605-962e-6f85715bd75e,PathAnnotationObject,,Image,Polygon,49067.8,81090.8,56388496.1,35631.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,027cbf4e-8ae6-48dc-b100-126e3d019967,PathAnnotationObject,,Image,Polygon,83824.1,71335.6,66399116.8,33877.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,2f4fb50e-540c-4da1-aa2f-4461a4f2d418,PathAnnotationObject,,Image,Polygon,117389.3,101716.4,41442569.4,28174.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,dec493cd-e2d7-4681-a0ba-cda397b3597f,PathAnnotationObject,,Image,Polygon,59442.6,68698.5,28421762.2,23283.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,0d74a2e7-587f-4529-aabd-d6fa84448def,PathAnnotationObject,,Image,Polygon,107341.6,76292.4,47812964.4,33337.5
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,eb018698-bf14-4adf-8445-beb5940ebfb6,PathAnnotationObject,,Image,Polygon,5370.2,112462.3,33497076.8,33567.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,0f680e5d-b451-4e07-9b3e-967f053f6d33,PathAnnotationObject,,Image,Polygon,85563.8,117968.4,27861727.4,21952.6
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,5a54fa38-2a3a-42da-a828-d9a95f36349e,PathAnnotationObject,,Image,Polygon,159690.9,10617.5,24921545.1,22225
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,cca8d7db-63de-45c8-9b98-a890972e459e,PathAnnotationObject,,Image,Polygon,131072.7,36304.6,21561336.8,20108.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,7f5c72fa-f221-440e-9175-510db653642f,PathAnnotationObject,,Image,Polygon,106542.4,66958.7,36472261.3,26276.8
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,a1420846-9e23-45eb-811b-8b160c87436c,PathAnnotationObject,,Image,Polygon,213538.5,80685,46062855.9,34925
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,5ba95e5e-7076-4b90-8359-8a161a339ca7,PathAnnotationObject,,Image,Polygon,58850.4,91435,47602951.4,31018.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,814fd1aa-6070-42b3-914f-8b9c1c288ccd,PathAnnotationObject,,Image,Polygon,42638.5,103851.9,19181189.2,19579.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,18679e85-6770-410a-9591-3999f83ff124,PathAnnotationObject,,Image,Polygon,98821.4,52363.2,52678266.1,35556
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,185b9182-32d5-4dea-8a9f-dcf218b51224,PathAnnotationObject,,Image,Polygon,192396.3,90924.1,36822283,26458.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,832e4591-c2dc-4600-a9e0-7443d6c6c022,PathAnnotationObject,,Image,Polygon,111330.9,99123.1,35072174.5,26057.6
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,4470d1b9-0e2f-4249-b9bd-3ba1ea9f81bf,PathAnnotationObject,,Image,Polygon,170867.7,49650.4,39727463.1,26121.8
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,abd0f9c9-7b86-4796-a40f-5fe0853ccf0a,PathAnnotationObject,,Image,Polygon,200652.3,16570.7,38992417.5,29633.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,1bb67843-7c99-4ffd-b76d-a079561b591a,PathAnnotationObject,,Image,Polygon,143027.6,119175,37452322,28045.8
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,c1a14866-885e-4210-9180-a102b91546a9,PathAnnotationObject,,Image,Polygon,228123.4,16305.8,25201562.5,22391
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,e54e1ea4-8f79-40e6-85c5-a7a99a559fce,PathAnnotationObject,,Image,Polygon,222064.3,70872.7,35422196.2,29051
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,f8d65bcc-3979-4395-b9bb-87b7f234f55c,PathAnnotationObject,,Image,Polygon,94077.4,25298.8,19181189.2,19178.4
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,e2cd303c-4291-4266-9c36-731b7205be5c,PathAnnotationObject,,Image,Polygon,20120.8,52157.7,49773085.9,33866.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,03a071b6-fe89-4eca-b065-21039e9eb536,PathAnnotationObject,,Image,Polygon,190065,77255.8,43682708.3,32279.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,e391ecab-0ccb-45f0-944e-0dd3a0fce99a,PathAnnotationObject,,Image,Polygon,144431.4,62816.3,38747402.3,26960.9
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,60d8e569-7c62-400d-8020-4f79b51cca2f,PathAnnotationObject,,Image,Polygon,3834.4,39796.8,23206438.8,21230.9
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,cefb9c02-f895-4902-b7ab-5d3e1f459145,PathAnnotationObject,,Image,Polygon,39320.1,40725.9,41757589,30975.1
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,8b400b39-e9dc-413e-afce-4ddefd057191,PathAnnotationObject,,Image,Polygon,21099.5,92050.1,46062855.9,30691.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,0930d6dd-fa07-44da-8439-cab3112e3dab,PathAnnotationObject,,Image,Polygon,194755,29900.7,39342439.2,29633.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,7f1c6485-eb54-47e9-8c96-432a34ee7689,PathAnnotationObject,,Image,Polygon,177903.5,101324.4,37207306.9,25811.8
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,6e433d5b-c61a-4df1-8b8c-85712ec4e0da,PathAnnotationObject,,Image,Polygon,151645.8,25263.2,34197120.2,25592.6
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,d49ab4b8-19a1-42e6-b2a6-f3ff8af44850,PathAnnotationObject,,Image,Polygon,146373.8,80606.8,48162986.1,32279.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,56596c55-2ca5-440e-a4b5-e682b2b78cc9,PathAnnotationObject,,Image,Polygon,186741.7,46136.4,66574127.6,40216.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,7ba1d9a1-ff4b-4f31-8de3-f82edf440a0c,PathAnnotationObject,,Image,Polygon,172319.2,96837.6,40112487,26934.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,68c7bbd2-2bdd-4549-95ee-d5fc0dc9eae9,PathAnnotationObject,,Image,Polygon,105871.6,3125.1,33357068.1,24753.5
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,d10461d3-7f45-4f2d-bdb0-9a50a751a182,PathAnnotationObject,,Image,Polygon,105698.1,97527.2,9520590.3,12609.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,5a187d32-657d-4b26-93b3-cecf90030be3,PathAnnotationObject,,Image,Polygon,205923.5,80444.6,36262248.3,27516.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,24435e48-bfbe-4cd3-a0be-0238db14d1b8,PathAnnotationObject,,Image,Polygon,96449.4,40168.1,41827593.3,29825.9
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,a0f83206-deea-44c1-8d29-1b90874f2439,PathAnnotationObject,,Image,Polygon,215201.9,119806.8,26951671,23759.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,31164f30-894d-45d1-bbd8-f59633dd3284,PathAnnotationObject,,Image,Polygon,31184.2,26190.4,44522760.4,29633.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,025695ad-304e-4f7b-adee-0853d75abe90,PathAnnotationObject,,Image,Polygon,74531.8,43043.3,97306033,47952
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,874ce717-166c-4dba-b5c8-44fcfe83ddb8,PathAnnotationObject,,Image,Polygon,194468.3,112805.7,30416885.9,25811.8
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,2fb9dbe2-5669-4999-92f1-b219e7cfba8e,PathAnnotationObject,,Image,Polygon,194231.9,15348.9,30101866.3,26987.5
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,83fda373-8eb0-4cf1-806c-cf0f7f9b7f11,PathAnnotationObject,,Image,Polygon,228082.4,71152,26181623.3,22572.6
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,eb7334fd-5938-45b5-9bc4-e9fde3b5b66e,PathAnnotationObject,,Image,Polygon,42122.6,88477.4,41092547.7,30691.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,7cb7ec6c-696f-4166-beec-68736d9051cf,PathAnnotationObject,,Image,Polygon,15147.1,6087.8,42632643.2,29104.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,23086c9b-f826-40c3-aa5b-8cf2ba60c86c,PathAnnotationObject,,Image,Polygon,167288.7,40976.2,25026551.6,24534.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,990e9bf7-fc42-4ba0-84ee-11e2543f0029,PathAnnotationObject,,Image,Polygon,223327.3,120731.2,39272434.9,26624.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,712d942b-72f6-410b-95d5-8978262219bd,PathAnnotationObject,,Image,Polygon,132468.4,4154.6,64508999.6,35336.8
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,dd596f51-c645-4bbf-ad9d-0367acb68dbb,PathAnnotationObject,,Image,Polygon,155669.2,89644.2,36472261.3,26458.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,7ec9a62d-55de-4c62-b1a9-525753668e41,PathAnnotationObject,,Image,Polygon,96344.8,19690.9,32482013.9,25929.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,6daddf2d-8412-4dec-b7df-93c4c41cdd0e,PathAnnotationObject,,Image,Polygon,188074.4,54333.7,37802343.8,26276.8
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,9f459771-392f-4a42-98ff-9fa27db3c5f6,PathAnnotationObject,,Image,Polygon,142849.7,87576.6,38082361.1,28575
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,cdafbf19-7510-4dcb-b9df-d4696a67bd62,PathAnnotationObject,,Image,Polygon,151588.6,56200,29401822.9,24341.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,d9c993be-56d4-4a35-86ce-aabaebb42c89,PathAnnotationObject,,Image,Polygon,88307.3,50608.1,44697771.3,29516
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,4698c407-bb98-4efc-b170-ecd4586831bc,PathAnnotationObject,,Image,Polygon,147639.3,11947.3,64123975.7,37897.9
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,551a1d0f-20c2-402f-a405-bd63fada5ed1,PathAnnotationObject,,Image,Polygon,122474,113817.4,25936608.1,21359.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,f38cb009-d181-471b-b1b5-fb76fb6b331b,PathAnnotationObject,,Image,Polygon,214193.8,100296.9,37242309,26276.8
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,c6129003-cf6c-4652-b7e5-2cf44eb50286,PathAnnotationObject,,Image,Polygon,69373.6,91376.8,39167428.4,26741.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,810aacfe-e7b1-4b46-ad9f-2de55f60999c,PathAnnotationObject,,Image,Polygon,30931.7,75998.1,84145217,34455.5
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,f0afb2eb-1880-4029-be00-35012a2f2602,PathAnnotationObject,,Image,Polygon,127295.9,18653.1,49353059.9,33866.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,ebc66b9c-feed-4774-b4f7-ca769e2d7a26,PathAnnotationObject,,Image,Polygon,165255.4,53455.4,35772217.9,26586.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,4ed15f98-a276-4111-bca3-cccfdc5650ed,PathAnnotationObject,,Image,Polygon,118370,50303.3,40987541.2,26560.1
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,33a31402-0662-4282-82b8-712761ae902d,PathAnnotationObject,,Image,Polygon,218018.6,113390.3,41337562.9,28457.6
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,7bc8bde2-6df2-4fc6-bc14-4ea66659983f,PathAnnotationObject,,Image,Polygon,179270.4,33061.1,32657024.7,24315.1
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,b482fd0b-6ecb-438a-8a34-9603cfbf86b0,PathAnnotationObject,,Image,Polygon,114438.9,60830.9,38397380.6,26650.9
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,25d9fdac-db3a-439b-b21a-d51b3bcd0b05,PathAnnotationObject,,Image,Polygon,34172,106146.4,35632209.2,26661.9
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,36c13122-b1b7-49d6-bf38-89596efa9076,PathAnnotationObject,,Image,Polygon,113157.6,110173,31466951,24405.9
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,9bf60539-8327-42e0-aecf-8d9604b1ac34,PathAnnotationObject,,Image,Polygon,227794.8,56334.9,41232556.4,29104.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,bfd3a58e-d7ac-4497-a7c5-c6c68fd8362e,PathAnnotationObject,,Image,Polygon,210874.7,88784,43682708.3,29141.8
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,a1d1dbc1-effd-449f-b09e-00c56e656ed5,PathAnnotationObject,,Image,Polygon,13021.3,113224.3,47532947,34395.8
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,c1788f3c-0fb2-41be-8037-9e6686f6cf0d,PathAnnotationObject,,Image,Polygon,80425.3,111022.9,29716842.4,23785.9
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,e38db32e-0893-407b-9c0f-3129f09bdc0f,PathAnnotationObject,,Image,Polygon,101532.7,44435.2,48443003.5,29670.9
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,d0d293c1-eda9-4acd-95a1-d8039dbaceef,PathAnnotationObject,,Image,Polygon,148755.3,113999.7,45082795.1,29670.9
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,b6e445b2-0950-4c51-a2b2-763180c75e58,PathAnnotationObject,,Image,Polygon,152175.9,66010.4,28596773,24005.1
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,14a8acb4-fb15-4aa6-8b6a-8ac0ed3c0ca3,PathAnnotationObject,,Image,Polygon,188383.8,39175.7,49283055.6,30948.5
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,dcdc5955-d948-4aa3-a867-96d8f95439c9,PathAnnotationObject,,Image,Polygon,96667.6,63986.4,43017667.1,30355.1
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,5d901052-bf75-4d43-b6cf-bc912333fd58,PathAnnotationObject,,Image,Polygon,199535.1,42925.9,30031862,23411.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,d8188344-0e8e-4a56-bd08-0adea1f77e0f,PathAnnotationObject,,Image,Polygon,205720.4,54160.1,53693329,34925
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,411850cb-8090-4e10-97c1-c6eece308d1a,PathAnnotationObject,,Image,Polygon,178600.7,55683.2,34162118.1,24598.5
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,c529fa28-a027-42c1-828f-7ed5a5e0fb74,PathAnnotationObject,,Image,Polygon,198195.7,55042.4,20721284.7,19926.8
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,4bc3aef9-e858-4397-8c8c-4873e1357df3,PathAnnotationObject,,Image,Polygon,175780.4,26300.1,46307871.1,27928.5
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,edb3e9c1-206f-4664-ad3e-9907c25c6314,PathAnnotationObject,,Image,Polygon,100578.6,97698.4,44242743.1,28612.6
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,e63f4ccd-e44b-4a3d-b445-d41c5fa889b0,PathAnnotationObject,,Image,Polygon,174236.4,64928.3,33742092,29104.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,56824928-4a4e-4f4b-a182-850cbf72ffb7,PathAnnotationObject,,Image,Polygon,151084.3,19685.6,42002604.2,28393.4
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,235366c0-e994-4935-a8ad-6a839aa20a64,PathAnnotationObject,,Image,Polygon,33985.4,123025.1,30626898.9,24005.1
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,4d7e29b8-943c-434b-aff2-e3be74e3e402,PathAnnotationObject,,Image,Polygon,128634,49013.5,43612704,29633.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,24ad65ee-c95c-4a0c-9975-2ff8192e2de2,PathAnnotationObject,,Image,Polygon,105378.7,116050.1,43577701.8,33877.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,8c5ef228-f3e2-49a2-b90b-69216d3777e7,PathAnnotationObject,,Image,Polygon,120439.1,7721.3,38642395.8,29104.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,a837e5be-a31f-4aa8-8ab6-0e4ba122ffa7,PathAnnotationObject,,Image,Polygon,38377.6,66658.4,38782404.5,29761.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,4f641c1c-574f-4301-bb70-0343751c9982,PathAnnotationObject,,Image,Polygon,22778.6,110315.1,33322066,25929.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,cbd9e17f-9f94-48fc-b446-b0bc734df255,PathAnnotationObject,,Image,Polygon,120753.1,73164.3,50053103.3,34395.8
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,b5b8ae7d-50b2-4981-bdf1-309162f61717,PathAnnotationObject,,Image,Polygon,205336.5,36650.9,23136434.5,20610.9
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,41941d5e-8453-4323-981d-cb5fd70a73da,PathAnnotationObject,,Image,Polygon,161609.9,62522.1,27721718.7,21952.6
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,2dbe1815-ea51-4855-ab7b-4cce2b654203,PathAnnotationObject,,Image,Polygon,104699.5,19559.6,50963159.7,35781.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,da3713f2-2692-4ad0-9c64-9d2430131188,PathAnnotationObject,,Image,Polygon,162643,14894,28316755.6,24405.9
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,e532d4d8-2451-4ce5-a5ac-56884aed255b,PathAnnotationObject,,Image,Polygon,217709.4,45804.2,13510837.7,16623.4
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,b504e1c8-01e2-49f7-b0cb-c29f9ecfa6e4,PathAnnotationObject,,Image,Polygon,227242.3,89269.1,40427506.5,25320.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,24f2ffb8-a05d-49f9-b4a0-0dafc02b96ed,PathAnnotationObject,,Image,Polygon,111940.9,33879.1,16696035.2,17035.1
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,edc782e5-2bca-4cbc-b265-c0fc7586f9ce,PathAnnotationObject,,Image,Polygon,127074.9,30093,12565779.1,15410
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,536a1970-90c2-46e3-b1ca-0b2becd47441,PathAnnotationObject,,Image,Polygon,103474.2,34395,45047793,29606.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,c59f0d8c-f403-4dce-98ca-3fad9d0f762d,PathAnnotationObject,,Image,Polygon,138007.8,77069,32377007.4,27295
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,eabc3e91-fd40-43cd-94ad-70f870b2f716,PathAnnotationObject,,Image,Polygon,21830.1,19691.3,43507697.5,28238.4
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,35f05b83-5bea-42db-a303-37d4cef4740b,PathAnnotationObject,,Image,Polygon,85849,3589.1,15610967.9,16623.4
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,c8dc3dcc-f4fc-4101-b640-2e8efa6e1192,PathAnnotationObject,,Image,Polygon,217475.6,39058,14735913.6,16468.4
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,4b57b345-ff95-47b1-a1a9-e9fed0ac7a19,PathAnnotationObject,,Image,Polygon,129349.9,104579.2,41092547.7,29104.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,a9cb70c5-8b23-4d8e-84f6-f2ce336fc82b,PathAnnotationObject,,Image,Polygon,99924.3,28768.8,15960989.6,17991.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,d7127e92-9dd6-4971-9838-00402dab9b5d,PathAnnotationObject,,Image,Polygon,122664,31780.7,25236564.7,20920.9
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,2ec910e1-24ad-410a-a479-c6c21c003b3c,PathAnnotationObject,,Image,Polygon,208466.9,118966.6,51173172.7,30419.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,5d061b93-ce7f-4192-b9f0-85c6ba494c2d,PathAnnotationObject,,Image,Polygon,78122.1,30696.3,46412877.6,29633.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,c982ed15-dca2-4080-9505-312e70270f0a,PathAnnotationObject,,Image,Polygon,129920.4,81679.6,38502387.2,26586.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,ff50083c-d837-4b1c-8546-9baa50005552,PathAnnotationObject,,Image,Polygon,138810.2,56739.5,39622456.6,27645.1
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,2c57fbe9-a5cc-423d-a7c7-b8a7425af75a,PathAnnotationObject,,Image,Polygon,200220.7,77997.8,70074344.6,41602
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,db63dafd-f006-4166-affb-d1cfa67ddc32,PathAnnotationObject,,Image,Polygon,62457.8,76236,44802777.8,30691.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,0d7d2696-3791-47b8-bf7e-ec6dd9498c72,PathAnnotationObject,,Image,Polygon,184281.1,61538.9,47637953.6,28676.8
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,5922e922-0ce4-48c0-a68e-f1032baf5407,PathAnnotationObject,,Image,Polygon,27638.3,52491.5,29471827.3,25400
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,eeb2509f-93ee-406d-9d01-827054b59bbb,PathAnnotationObject,,Image,Polygon,122554.1,107082,26111618.9,22791.8
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,f55c213b-be86-4d0d-b149-bcaa7fb02a19,PathAnnotationObject,,Image,Polygon,154097.2,29829.5,22646404.1,19862.6
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,52f94ee8-86a0-4f06-9d40-2b59114e28d6,PathAnnotationObject,,Image,Polygon,220248.2,94465.2,51768209.6,30483.5
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,8405e14d-ef7c-4cdb-85ac-d80b41a5e60d,PathAnnotationObject,,Image,Polygon,53886.6,92323.7,36752278.6,38100
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,574fd4eb-9e06-49c1-bd45-bfcc7e44ea2a,PathAnnotationObject,,Image,Polygon,171119.3,70255.9,63843958.3,38629.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,cd16e01a-9625-4af5-a1b2-f973682a17d1,PathAnnotationObject,,Image,Polygon,131663.4,26938.3,32972044.3,25929.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,decccf37-73c1-41b2-8b40-6a70273f12b0,PathAnnotationObject,,Image,Polygon,109821.4,14550.5,40007480.5,27180.1
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,ed46c631-9795-4a23-ae7d-ae66476b0387,PathAnnotationObject,,Image,Polygon,116633.2,90607.6,39342439.2,27516.7
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,a38f274f-93e2-4e7b-b258-3d7751dc4102,PathAnnotationObject,,Image,Polygon,52850.9,118133.6,44557762.6,29825.9
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,2f1580e0-f1b4-4b46-9115-34b2093d5b46,PathAnnotationObject,,Image,Polygon,148733,93749.8,36612270,26987.5
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,1dcda21c-2d8a-465a-9038-22ae14680a6e,PathAnnotationObject,,Image,Polygon,123261.9,63502.9,45642829.9,29542.5
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,178af62f-3fea-4779-9a3e-b8e9b6dcc165,PathAnnotationObject,,Image,Polygon,12482.6,53707.1,52433250.9,34395.8
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,cf628b8b-759f-4bf5-b812-4ea012e5e510,PathAnnotationObject,,Image,Polygon,188741.7,111402.8,48162986.1,30109.3
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,68ce8da8-13d9-409c-958d-b85ab3470181,PathAnnotationObject,,Image,Polygon,105238.9,58093.5,55023411.5,32279.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,f895125e-b09b-4bbf-a898-cc100657ec51,PathAnnotationObject,,Image,Polygon,135136.2,94225.2,66189103.7,33658.5
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,41b591af-a532-4f42-ae1e-9bc89ac41c87,PathAnnotationObject,,Image,Polygon,151255.9,42693.8,29471827.3,25929.2
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,337c158c-6f45-4793-9cb1-f73b477f3acc,PathAnnotationObject,,Image,Polygon,92119.7,79334.6,30976920.6,26960.9
+L10-1 FFPE 2 Exp 14 ms Gain 1 Satur 100.tif,dd6f3e38-63cc-4581-af1c-a82aeb932072,PathAnnotationObject,,Image,Polygon,150462.9,120268.5,21176312.9,21011.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,c932e112-2e22-4436-8a9d-108e5e3a498a,PathAnnotationObject,,Image,Polygon,130444.9,31975.7,59958717.4,38201.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,f688c114-0b19-490c-8c56-9d8a33dcc892,PathAnnotationObject,,Image,Polygon,11362.1,4110.9,57543567.7,30419.3
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,c7e22d42-df71-4cfc-ad0d-05052eaaf75f,PathAnnotationObject,,Image,Polygon,9678.5,48382,73994587.7,37079.3
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,db40e9e2-50fd-460d-935a-0c918d64c2b7,PathAnnotationObject,,Image,Polygon,125367.1,125182.6,36122239.6,26586.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,883b3b10-023a-4973-9fab-0da590e145a4,PathAnnotationObject,,Image,Polygon,111705.7,133566.2,53238300.8,33091.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,36e7e0cd-1a70-46fa-afa1-151bd67a3273,PathAnnotationObject,,Image,Polygon,105394.2,69664.8,44137736.5,30226.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,cae44f72-b74f-4ec8-a132-3b49d217830d,PathAnnotationObject,,Image,Polygon,18185.2,101703.5,44732773.4,29670.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,f01e64cc-5b23-4748-bcc7-976033459798,PathAnnotationObject,,Image,Polygon,34104.7,9397.1,58698639.3,31851.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,08e37534-5cdd-4c62-af33-86b45269ec57,PathAnnotationObject,,Image,Polygon,7052.1,70939.9,60273737,33155.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,44a9ff17-4cdf-4066-85f9-15097880e062,PathAnnotationObject,,Image,Polygon,102183.5,42861.1,64193980,31916
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,c8092f09-e2c8-4409-a08c-290f208017ae,PathAnnotationObject,,Image,Polygon,73427.7,9677.7,11060685.8,15035.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,bb2bd5d3-c23e-4bda-bb92-9a9267184f42,PathAnnotationObject,,Image,Polygon,119888.6,90902.7,77634813.4,41403.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,4682d239-0ea5-478d-953a-df3abe65e2b7,PathAnnotationObject,,Image,Polygon,144489,90710,62986405.2,35198.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,a6f65ffa-637d-4f42-b506-319fcf30ec0e,PathAnnotationObject,,Image,Polygon,17939.5,163112,45782838.5,30691.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,17b83b44-dea5-4e95-8869-afc5aa2d4e83,PathAnnotationObject,,Image,Polygon,40626.7,117307.8,65699073.4,33658.5
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,f3fb8dda-46f8-4a90-8b2d-c76e530a6d3c,PathAnnotationObject,,Image,Polygon,107100.5,123857.3,51768209.6,33620.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,58a1a257-3797-4123-8a79-8d90ac0a1b0a,PathAnnotationObject,,Image,Polygon,111964.3,67605.4,49318057.7,32033.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,42303fef-adc5-4f45-91e4-812dbc8e74df,PathAnnotationObject,,Image,Polygon,142239.4,153981.8,40777528.2,25501.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,efabc01d-860f-4e01-b75b-eb7435af521a,PathAnnotationObject,,Image,Polygon,122080.7,154441.6,47970474.2,29259.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,9e5c16a4-a513-4650-b796-ee35fc255f8f,PathAnnotationObject,,Image,Polygon,28847.1,15411.5,45572825.5,29141.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,2dcb9083-d085-4ab1-af0c-c5833c5c8b1e,PathAnnotationObject,,Image,Polygon,65853,122727.7,64824019.1,38704.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,23e0c49c-a3a2-4407-8579-826eb3488ea1,PathAnnotationObject,,Image,Polygon,49022.3,162388.4,19286195.7,20920.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,8f55785e-e764-48e9-8b41-1cd18f6cbc51,PathAnnotationObject,,Image,Polygon,16969.9,18721.6,62128852,36485.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,96f85f07-c7e9-4887-9acc-4312ec853ecb,PathAnnotationObject,,Image,Polygon,64083.6,141317.7,53413311.6,31039.3
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,0fe4ff9e-d187-4af8-a928-78e401caaf73,PathAnnotationObject,,Image,Polygon,28581.7,5130.3,24116495.2,24715.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,250a93fc-3d1a-4704-a4e1-9c267e659a94,PathAnnotationObject,,Image,Polygon,93166.9,48517.2,35772217.9,25838.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,27bd6541-8233-4720-8b43-2870d18d9241,PathAnnotationObject,,Image,Polygon,69657.8,66665.6,45362812.5,32498.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,7483d921-e8c0-4c9c-86f4-27101bd80d2d,PathAnnotationObject,,Image,Polygon,53443.1,25457.5,55933467.9,33995.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,865647c4-07ab-456c-bd26-fe3e018af1b2,PathAnnotationObject,,Image,Polygon,98279.5,101581.5,58243611.1,33904.3
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,ab531ae2-984e-4f44-836a-c931ff406dfb,PathAnnotationObject,,Image,Polygon,48824.6,98756.2,44890283.2,28292.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,52f87aa2-998c-4394-b441-ed94e1f59b00,PathAnnotationObject,,Image,Polygon,76532,152038.5,86490362.4,40885.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,8d82f3a4-d788-4def-9447-b06b4a7179e9,PathAnnotationObject,,Image,Polygon,93728,65637.7,39517450.1,29077.6
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,5ad2299a-0aa7-425d-a2e0-c9cf0d3e287d,PathAnnotationObject,,Image,Polygon,123461.7,112196.2,48758023,33620.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,3129047b-bcfd-4b16-84b2-4901827c8fb7,PathAnnotationObject,,Image,Polygon,22413.1,70936.6,41477571.6,28548.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,98334c01-6b1a-43e2-baaa-f7fb3d307757,PathAnnotationObject,,Image,Polygon,59751.4,158369.9,25061553.8,20675.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,92636402-6094-4aa3-8cca-3e5726d8aefd,PathAnnotationObject,,Image,Polygon,99820.2,75298.6,57403559,32135.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,09624ae9-2e0b-47db-a85b-09192c475e12,PathAnnotationObject,,Image,Polygon,9333.5,29801.4,98951135,45647.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,10c4cbfa-6eb5-474b-8528-4cb77e8e01b5,PathAnnotationObject,,Image,Polygon,9818.3,171199.8,60623758.7,33866.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,e8a74165-bd79-4f0e-8ce9-73a946df1bc1,PathAnnotationObject,,Image,Polygon,100068.1,128580,40637519.5,27580.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,5e778a1a-2f97-478f-aac9-137cb8833550,PathAnnotationObject,,Image,Polygon,125717.2,47980.6,64403993.1,35363.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,0fbf3e61-0951-42f0-8e37-ddd24633e2ab,PathAnnotationObject,,Image,Polygon,22693.1,7032.9,63843958.3,34342.6
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,fba800a3-4044-496f-adbb-ffe9d6bdfe35,PathAnnotationObject,,Image,Polygon,14993.4,81999.1,47392938.4,30820.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,26beed24-3c32-42f2-be6e-8709e9d268f2,PathAnnotationObject,,Image,Polygon,75129.5,3224.7,75289668,39970.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,347e21ab-0225-4e08-ba38-8cb6aca563a6,PathAnnotationObject,,Image,Polygon,114844.2,117541.5,30836911.9,24095.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,318bb189-5307-4548-ac27-20b05bb722ca,PathAnnotationObject,,Image,Polygon,64036.2,96551.3,27791723.1,22754.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,5dda5bb3-4f74-443b-890a-c40406b5d663,PathAnnotationObject,,Image,Polygon,145120.5,82357.6,43577701.8,30975.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,ca001423-0c06-43ce-b920-135821568576,PathAnnotationObject,,Image,Polygon,42592.8,172011.5,39482447.9,26987.5
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,4f158e2c-a9d4-4c64-b4d6-58023fe7842b,PathAnnotationObject,,Image,Polygon,99371.4,117259.1,39762465.3,28703.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,00a818d1-f528-4d4e-8f73-03e58d46d360,PathAnnotationObject,,Image,Polygon,117924.9,58031.6,88415481.8,42680.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,d5b38415-3cc8-465e-b6c2-fe04d613e678,PathAnnotationObject,,Image,Polygon,53449.6,114699.2,29996859.8,23037.6
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,2d83dfb9-2ce6-43d0-a332-b0fd05f02645,PathAnnotationObject,,Image,Polygon,64771.7,105228.6,33217059.5,26741.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,09ebe567-805c-4250-beb9-42cc4bb0a4f9,PathAnnotationObject,,Image,Polygon,109778.9,113784.7,33952105,27516.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,cf1c6e78-1c0a-47bd-b2f6-d11125418370,PathAnnotationObject,,Image,Polygon,44733.7,108130.8,31326942.3,25683.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,ee60c8cc-445a-4731-95af-3a4f90e0ec22,PathAnnotationObject,,Image,Polygon,117477.8,160483.7,24116495.2,21540.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,ce56a46d-dd52-46ef-af2a-ad1a724e2a95,PathAnnotationObject,,Image,Polygon,71119.1,109352,43507697.5,28329.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,3cebdabb-86c6-4d00-826e-3590779e36d0,PathAnnotationObject,,Image,Polygon,138323.8,37031.1,60518752.2,33348.5
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,cced5beb-cfe2-4604-add1-2fd2a7ad4a6e,PathAnnotationObject,,Image,Polygon,71431.7,95791.8,40427506.5,26560.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,7401b5a1-0725-4b29-a2d9-7418894cdd2f,PathAnnotationObject,,Image,Polygon,73414.3,49449.4,44907784.3,29825.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,212473b1-3c72-45c4-9b30-5cd671627d40,PathAnnotationObject,,Image,Polygon,108845.3,105435.9,72349485.7,38821.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,f22b731b-3102-4cd0-bb2b-aea8224a025c,PathAnnotationObject,,Image,Polygon,79796.2,35294.3,26916668.8,23566.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,b7166f18-5a2c-4127-a283-80c863c8a360,PathAnnotationObject,,Image,Polygon,29322.8,45828.4,32832035.6,23721.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,4c0e530f-b70b-49a8-8caf-742639819191,PathAnnotationObject,,Image,Polygon,116517,45799.8,54918404.9,32872.5
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,a8e5ead8-eb22-428c-80a9-9cd3a2c0f3ee,PathAnnotationObject,,Image,Polygon,110136.2,22933.4,50403125,31130
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,a0749369-c864-4a9f-aa7e-800815f1b7f8,PathAnnotationObject,,Image,Polygon,60587.6,24748.7,44697771.3,28548.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,3da8b995-d14f-47ab-9d37-0c2aa7a10e8c,PathAnnotationObject,,Image,Polygon,10148,102474.2,57648574.2,32252.6
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,fbdea3d6-2527-4185-88b7-8c749be27b6e,PathAnnotationObject,,Image,Polygon,147337.8,76090.6,49633077.3,31130
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,ec2cb40a-831d-48ac-aad7-5df10579a401,PathAnnotationObject,,Image,Polygon,65076.1,34952.7,51873216.1,32316.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,2a2c6aa3-ecd8-43b9-ab7d-15f2a8ddaf83,PathAnnotationObject,,Image,Polygon,29716.6,60928.1,49003038.2,32498.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,390dc0f0-3238-4126-89f3-448e5eaf54b1,PathAnnotationObject,,Image,Polygon,123946.8,102801.4,51943220.5,34615
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,066621a5-8a39-4ba7-9bdb-a6b17af3c5e8,PathAnnotationObject,,Image,Polygon,126822.6,140632.9,154587084.4,54998
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,6a71dce0-ccf3-4286-b032-bb2492a4c5e1,PathAnnotationObject,,Image,Polygon,90095.1,141004.5,61288799.9,34679.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,99a7d7d2-85fc-4cd4-ac9b-f0b9d865abc2,PathAnnotationObject,,Image,Polygon,69716.5,131220.2,43577701.8,31541.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,dbeebf6e-1b84-47a9-a8f3-2a9a1482dc7f,PathAnnotationObject,,Image,Polygon,132581.7,92557.9,40462508.7,34214.3
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,db3afce9-0093-4a09-9ada-91fc8c57141b,PathAnnotationObject,,Image,Polygon,4875.9,36405.1,53378309.5,32343.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,416a8468-b097-4a34-836b-94e8d6871d4a,PathAnnotationObject,,Image,Polygon,84992.2,44723.1,72034466.1,37608.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,51cc1131-67d9-4a45-a59d-b30f3c081a9d,PathAnnotationObject,,Image,Polygon,135233.2,87439,66089872.3,38734.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,ef51dd24-1664-47b4-9839-24bea6d7ff1d,PathAnnotationObject,,Image,Polygon,140348.4,15131.6,46482881.9,29051
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,4898a182-dc66-4e33-a25c-549452ed8a22,PathAnnotationObject,,Image,Polygon,130956.7,42024,17641093.8,17280.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,e7eb0cd7-3c39-407f-a447-526950dd696e,PathAnnotationObject,,Image,Polygon,103807.5,111477.6,43752712.7,29761.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,fd4285e6-e06e-4e58-9a57-3f7393d1955d,PathAnnotationObject,,Image,Polygon,89963.9,54917.2,54708391.9,31632.6
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,4539b3d6-18ef-4b5e-aba1-89e2ac6dbcee,PathAnnotationObject,,Image,Polygon,78608.7,65252.8,62513875.9,33065.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,e8553aa2-e2d1-47b5-8744-da17b3ea9462,PathAnnotationObject,,Image,Polygon,47996.4,126649.9,50683142.4,28831.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,13c43563-9564-4375-9039-17c099151683,PathAnnotationObject,,Image,Polygon,12045.2,41634.2,25901605.9,23630.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,e0148ec6-0a58-434e-ac02-c49078874f9a,PathAnnotationObject,,Image,Polygon,90434.5,125501.2,69164288.2,38666.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,e588c5b2-3124-4f87-88e8-1d91d84be285,PathAnnotationObject,,Image,Polygon,51850.4,84108.4,39307437.1,26650.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,4c6c51f5-aa41-4c27-bfbf-2a98e86463c1,PathAnnotationObject,,Image,Polygon,21638,84364.5,27581710.1,22134.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,a54df464-0f17-4a70-af60-4f81d59428ed,PathAnnotationObject,,Image,Polygon,4737.5,110328.7,51803211.8,32279.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,5f4bf0dc-64da-4a89-a4e9-caa56f4bbc55,PathAnnotationObject,,Image,Polygon,23833,64135,40462508.7,29013.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,4fa87738-752c-4b2f-94e5-1d323ea54557,PathAnnotationObject,,Image,Polygon,18228,91624.5,48583012.2,28703.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,a72b1ca4-85c6-4d30-81a3-d0ac476532fc,PathAnnotationObject,,Image,Polygon,147787.2,160188,45677832,28238.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,8c08ee8f-349f-4de8-9303-2e45c8864db7,PathAnnotationObject,,Image,Polygon,36577.7,128506.3,71614440.1,35091
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,b797724b-ce84-4c97-b6da-971e70decfec,PathAnnotationObject,,Image,Polygon,30701.5,119341.3,51383185.8,31258.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,82bbadf6-8696-470a-a218-98a80c74bb99,PathAnnotationObject,,Image,Polygon,38461.8,90826.3,32797033.4,28949.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,61989472-4ed3-40a4-9ee5-7cb4ef0c3df4,PathAnnotationObject,,Image,Polygon,133354.1,12953.4,53833337.7,32006.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,bce2ec66-2b99-4292-9638-41a783454b7c,PathAnnotationObject,,Image,Polygon,114840.2,112784.8,13440833.3,15565
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,f43bc1d0-c128-434e-beae-5d0a3ed00870,PathAnnotationObject,,Image,Polygon,61912.8,86866.2,43542699.7,29852.5
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,89e485ce-ed0f-440d-834b-c67617b40097,PathAnnotationObject,,Image,Polygon,26505.2,167079.2,46202864.6,29633.3
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,d5c26e5c-f84d-418c-85ac-99887e9c6626,PathAnnotationObject,,Image,Polygon,110563.9,38617.3,81450049.9,44861.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,10b4973e-cdce-498b-969c-37a827260cb6,PathAnnotationObject,,Image,Polygon,67482.5,160766.5,47182925.3,29761.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,3060e1b3-a325-4dec-9562-441bd4e206cf,PathAnnotationObject,,Image,Polygon,78034.9,89028.7,35842222.2,26367.5
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,1f54a574-cfa3-41da-950b-8d1e6bfb2cd5,PathAnnotationObject,,Image,Polygon,55176.5,121994.3,36769779.7,26266.5
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,c60c8308-aa97-44c9-a2d1-b99b972a1121,PathAnnotationObject,,Image,Polygon,43443,17054.5,37329814.5,28602.3
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,b786f5d8-f7ac-4e7b-9af3-f951cf86dc69,PathAnnotationObject,,Image,Polygon,132731.5,24791.2,38432382.8,27645.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,1fb5b5c7-74d9-4074-9f41-66cf79413992,PathAnnotationObject,,Image,Polygon,127343.8,61851.4,77739819.9,42964.3
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,b89dda8b-70bf-4634-b95e-9e6516f3c033,PathAnnotationObject,,Image,Polygon,103590.2,93994.4,60343741.3,32845.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,88d6ef84-bdd4-48ab-9c5a-53089c535dc1,PathAnnotationObject,,Image,Polygon,129673.7,111810.9,42807654.1,29387.6
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,ff119081-c854-4d75-a6e6-5350a9b41b78,PathAnnotationObject,,Image,Polygon,41964.7,101738.4,53448313.8,31632.6
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,1a95b661-44af-46f6-8648-ebfa57f9ddbd,PathAnnotationObject,,Image,Polygon,22977.5,155888.8,39482447.9,28045.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,0e89e4d6-d83a-4a77-baac-7929afc7f55a,PathAnnotationObject,,Image,Polygon,145927.1,57151.4,56563506.9,32006.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,60ed74d9-e9e6-42d1-984a-63f77c2df50f,PathAnnotationObject,,Image,Polygon,68770.6,100891.4,33637085.5,25154.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,43941d87-53fc-4b83-9bb6-aef2997c5e50,PathAnnotationObject,,Image,Polygon,131705.9,105107,38817406.7,28420
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,240ce461-fafc-4372-9e4e-3e90bddd2220,PathAnnotationObject,,Image,Polygon,100327.4,19892,58593632.8,33685.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,53830978-24ab-453c-a761-00165d2e39b7,PathAnnotationObject,,Image,Polygon,107684.2,147870.8,76234726.6,38228.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,4ee02a73-c4e4-454f-80af-19fb830f7e61,PathAnnotationObject,,Image,Polygon,122968.2,25264.4,55268426.6,31723.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,2b4da52b-a7b5-4578-af47-4131660f4a8e,PathAnnotationObject,,Image,Polygon,19272.6,172040,53133294.3,32808.3
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,7f7b1b0c-2df7-47bd-8ff8-62ef33fb697e,PathAnnotationObject,,Image,Polygon,22835.1,35451,51943220.5,31220.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,8c4b2144-cee2-4947-bd50-eda45a5f1a79,PathAnnotationObject,,Image,Polygon,18953.3,43053.9,40112487,26586.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,1dfed9a6-11d4-40cb-9fd2-a8bcf279ab65,PathAnnotationObject,,Image,Polygon,83144.4,35335.8,21071306.4,22353.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,549fd2f2-35c3-46a5-bdc5-9b0806511da4,PathAnnotationObject,,Image,Polygon,56069.4,100189.7,52678266.1,30264.3
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,c9c75572-dde4-42dd-9a74-8c7ae08e492f,PathAnnotationObject,,Image,Polygon,62973.6,50737.5,46097858.1,29916.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,0cd23b3e-b52e-44ff-a64f-96e461ad1c6a,PathAnnotationObject,,Image,Polygon,118757.9,125925.2,42317623.7,30007.5
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,dfaf683d-8fe1-498d-993b-df8b9915041a,PathAnnotationObject,,Image,Polygon,100847.7,161189.9,52958283.4,30135.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,8c5a6970-9531-443b-b9da-61953328ed9e,PathAnnotationObject,,Image,Polygon,20544.9,25995.5,26111618.9,22225
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,f9735098-cfa5-4b01-b617-f1de50ee092d,PathAnnotationObject,,Image,Polygon,43738,24945.9,76234726.6,40125.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,8f624658-ae23-4c9d-819c-01c0d749b850,PathAnnotationObject,,Image,Polygon,120396.3,12004.7,63528938.8,35737.6
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,09866c10-2e38-4d43-9874-d02098e5566a,PathAnnotationObject,,Image,Polygon,61669.7,152380.5,36122239.6,25838.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,30d14ee7-8308-4008-ab48-6797ea68c575,PathAnnotationObject,,Image,Polygon,79134,16096.3,62863897.6,41403.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,de866aa3-66f4-4bdb-9d25-4b47bb821bf3,PathAnnotationObject,,Image,Polygon,82452,59493.4,37592330.7,27115.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,5396f060-c792-4d90-a18f-de42e0a28758,PathAnnotationObject,,Image,Polygon,87666.4,117596.4,53168296.4,34898.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,a0b0893b-f325-428f-9d38-4551355b2610,PathAnnotationObject,,Image,Polygon,62199.5,80287.5,34547141.9,28329.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,cc163081-7220-46a0-90d6-76d9dba88283,PathAnnotationObject,,Image,Polygon,123284.2,82250.8,51628201,31814.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,2c3504fa-408c-42d4-abda-79e4b303b652,PathAnnotationObject,,Image,Polygon,16453.4,153902.8,51313181.4,31220.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,d9bcdd3b-1c65-40da-bdd7-a55949a84ee3,PathAnnotationObject,,Image,Polygon,40001.8,69451.6,19671219.6,18740
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,05b1ef6b-c1e4-4ba1-831a-c023ecbf1afb,PathAnnotationObject,,Image,Polygon,147333.6,125091.5,46552886.3,28703.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,670a2bf4-5d5d-452c-b2c0-944b6ed6f7cc,PathAnnotationObject,,Image,Polygon,37862.4,63057,38922413.2,26896.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,eb1a86b4-88f2-4c2c-8b7a-d63022f93421,PathAnnotationObject,,Image,Polygon,144811.9,49141.2,59888713.1,38383.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,79e3e116-d660-4dab-851c-3a16334355b1,PathAnnotationObject,,Image,Polygon,143964.2,21757.9,46132860.2,29761.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,43d7ad01-ad08-475b-ace0-4b97010c8671,PathAnnotationObject,,Image,Polygon,70790.2,43130.5,48075480.7,32661.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,d2d57c6e-d454-4ebd-8f3c-58bf89e95ae3,PathAnnotationObject,,Image,Polygon,65069.8,72672.8,64228982.2,35026.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,c743caca-1738-402a-ae90-bd06e24fb025,PathAnnotationObject,,Image,Polygon,140063,129830,37487324.2,25282.6
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,5f7d3ca7-8fe0-44d0-aef6-4e2a612a5aac,PathAnnotationObject,,Image,Polygon,7039.2,161381.2,60133728.3,34395.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,c9da64b6-1890-4d84-9111-6d976f2a28d4,PathAnnotationObject,,Image,Polygon,32119.6,30634.9,69934335.9,36512.5
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,35e90d9e-daf4-4c6d-933c-17b695c36e14,PathAnnotationObject,,Image,Polygon,53104.5,69726,66434118.9,34032.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,6385cb53-6c1e-4b84-b567-2b5a9b82bbd9,PathAnnotationObject,,Image,Polygon,85547.6,30625.3,38327376.3,26431.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,2d22d1f0-6dbc-4d65-86bb-9c00935ee294,PathAnnotationObject,,Image,Polygon,146013.9,105128.4,33182057.3,26715.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,952f5c4e-109c-4e1b-8482-cb03d351c9d4,PathAnnotationObject,,Image,Polygon,48665.6,167226.2,42912660.6,29542.5
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,4d341a46-bcfd-4646-b594-f4b2a60e9df9,PathAnnotationObject,,Image,Polygon,60583.2,110069.3,49493068.6,30820.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,b59f68aa-59d8-4151-b66d-22f921d8ddd4,PathAnnotationObject,,Image,Polygon,104133.7,172953.5,50193112,35053.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,57dd1863-7179-4f86-b898-0910edc0a5fd,PathAnnotationObject,,Image,Polygon,87914.9,68126.6,51208174.9,34150.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,b6352444-cb79-4858-b969-5bf59e610093,PathAnnotationObject,,Image,Polygon,31424.3,69678.1,53611424,31167.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,f0f7623a-d8c9-4910-ad01-d536c55be2ed,PathAnnotationObject,,Image,Polygon,81832.3,74622.6,79594934.9,37646
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,25df60d2-9101-4a2c-bef1-53fe2a57a74c,PathAnnotationObject,,Image,Polygon,140078.4,65744.3,40042482.6,27115.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,a27be649-f3cc-437a-8be6-21e327d72fd6,PathAnnotationObject,,Image,Polygon,104669.3,82176.4,55793459.2,36950.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,03800845-c24a-42cb-9873-e753bb9e28ee,PathAnnotationObject,,Image,Polygon,131678.2,169456.8,46587888.5,31194.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,97434e26-8f0d-43fb-ba1b-e1fdfa420ddd,PathAnnotationObject,,Image,Polygon,48307.5,75326.3,39097424,29697.5
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,38ec64a1-97e8-44de-b197-22c4dc60c5e1,PathAnnotationObject,,Image,Polygon,146746.5,65409.2,40042482.6,26805.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,91829c23-8865-45d6-9fb6-e98a6a94a64f,PathAnnotationObject,,Image,Polygon,50593,91179.4,33287063.8,25154.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,53810e34-7883-4b30-85d5-29b079170fb4,PathAnnotationObject,,Image,Polygon,57245.2,90624.8,36122239.6,30910.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,caebf41f-1ac1-4984-b447-336af1f6d5c1,PathAnnotationObject,,Image,Polygon,134763.9,41349.8,18831167.5,18339.3
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,60deb9ef-426c-4443-8b46-531b49869cb0,PathAnnotationObject,,Image,Polygon,82873.8,100480.4,50928157.6,30574.3
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,15c7a15a-afc1-4590-b53c-18125a415beb,PathAnnotationObject,,Image,Polygon,28119.6,134028,51698205.3,32471.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,499cf29d-72d3-4e16-8105-c0feceddca61,PathAnnotationObject,,Image,Polygon,6271.2,62563.8,66574127.6,34123.5
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,ff2424f2-46f4-4756-8be8-d73bdfcbd172,PathAnnotationObject,,Image,Polygon,70405.3,7926.7,10290638,14506.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,c3e709ba-061b-4336-bdf7-58feb0e9d396,PathAnnotationObject,,Image,Polygon,41288.6,138155.3,46657892.8,30445.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,b5ec9d53-ebe6-4382-971d-8bf58fedb70f,PathAnnotationObject,,Image,Polygon,46670.7,145802.6,59188669.7,33711.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,f9ee666f-dc46-4d74-93c1-2ec6e45f8b98,PathAnnotationObject,,Image,Polygon,66317.6,46256.6,20826291.2,24715.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,e2c05ec6-3955-4a64-947a-dd31d8cfc45f,PathAnnotationObject,,Image,Polygon,111994.1,75950.5,46062855.9,29451.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,fc781756-2e90-498b-bb9a-a9647c3ce616,PathAnnotationObject,,Image,Polygon,26598.6,98048.9,52573259.5,30729.3
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,79871783-b4a6-4530-bf0e-942e009a4eeb,PathAnnotationObject,,Image,Polygon,107863.5,164911.5,39412443.6,26805.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,96c820a1-fb38-4466-b5e3-c7f35a769df8,PathAnnotationObject,,Image,Polygon,74166.9,84447.8,43717710.5,31723.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,81dbcf62-60c7-4062-ba03-3c3607309aed,PathAnnotationObject,,Image,Polygon,122828,75165.7,56528504.8,33418.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,b68b7c70-c4c7-4233-8c39-f0d9c2104483,PathAnnotationObject,,Image,Polygon,72197.6,142314.3,48372999.1,28612.6
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,53bc1e04-f69d-4094-8ff2-27cd6149f4ab,PathAnnotationObject,,Image,Polygon,103442.6,62290.3,52818274.7,33401.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,897baeb5-185e-4efa-8276-66b6b88bf3e0,PathAnnotationObject,,Image,Polygon,84430.9,86188.4,46902908,30910.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,c68e8d8a-71e1-4f4e-8bfa-14d8d0536de2,PathAnnotationObject,,Image,Polygon,70716.8,174349.9,70984401,38666.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,9d0f9c1f-6479-4bf3-8c14-adb7b6488d41,PathAnnotationObject,,Image,Polygon,66304.2,115391.8,45537823.4,30445.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,cc42f138-ec42-4f8d-9acd-9433834e88ed,PathAnnotationObject,,Image,Polygon,141289.2,5137,54918404.9,32562.6
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,4efd5847-4154-4059-8902-95168fc33f86,PathAnnotationObject,,Image,Polygon,68916.9,167044.6,31070726.1,26161.5
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,6111bb30-81c6-4efb-93f6-6c7651d15fea,PathAnnotationObject,,Image,Polygon,50852.6,16414.7,60798769.5,34898.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,a825b214-b381-4133-abc2-28aa71389042,PathAnnotationObject,,Image,Polygon,108272.2,50340,62723888.9,37170.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,81044dcd-97ba-41b2-9c56-14a9fc2b2009,PathAnnotationObject,,Image,Polygon,145031,115646.6,59153667.5,33465.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,a797d55e-de81-4f66-906d-f25173fd3313,PathAnnotationObject,,Image,Polygon,78411.6,118784.6,48337997,29606.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,634c02fc-62bb-4abf-a459-50d5fd5303ae,PathAnnotationObject,,Image,Polygon,80336.5,127367.6,51173172.7,32626.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,466da2f8-d4c6-4a69-9da0-3a19962bc7fa,PathAnnotationObject,,Image,Polygon,95129.3,9307.2,67764201.4,38228.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,e9665553-cd74-406b-b849-c7bc62bd7d89,PathAnnotationObject,,Image,Polygon,99129.7,52226.9,52433250.9,31130
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,78628d9b-012a-48ae-9fe8-f61158c8dcf3,PathAnnotationObject,,Image,Polygon,34588.6,95352,38012356.8,27645.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,3d1616cd-0836-452f-a491-b5ef949e68c9,PathAnnotationObject,,Image,Polygon,69267.7,60317,42842656.2,29051
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,06afce1a-0295-46bf-949b-8a4a68f7b246,PathAnnotationObject,,Image,Polygon,82467.4,8413.8,37312313.4,26896.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,750c4fd3-50f4-4f59-9895-244d3dc2aa22,PathAnnotationObject,,Image,Polygon,97209.7,169473.8,71019403.2,39880.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,e0bcb7ad-69a9-4ed2-91f3-e0160ecf6a76,PathAnnotationObject,,Image,Polygon,114523.3,28879.8,39482447.9,29542.5
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,81ac620d-f3c2-4b4c-a0b8-0e2356567d0f,PathAnnotationObject,,Image,Polygon,21276.9,78128.5,42352625.9,27864.3
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,521a2e1c-428c-4a64-9d0c-418c45552b1f,PathAnnotationObject,,Image,Polygon,55721.7,133909.4,49843090.3,30820.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,1882b46b-834c-44d1-8d5b-f765faf3e9c6,PathAnnotationObject,,Image,Polygon,139038.4,136089.6,38817406.7,27270.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,d8decec5-4475-4a8b-b8e9-a8f7c0d0f4bb,PathAnnotationObject,,Image,Polygon,124560.4,162830,48372999.1,31969.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,29bb0adc-92fb-4a3b-ab2b-2dc7e63ca859,PathAnnotationObject,,Image,Polygon,32625.2,21527,44312747.4,30071.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,1d15cedf-2cc4-4c76-950a-bb2c8bdf561c,PathAnnotationObject,,Image,Polygon,91142.1,109829,59783706.6,36860.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,210c5fde-1ac7-4aa9-9b25-ba08116b8bcd,PathAnnotationObject,,Image,Polygon,127348.5,119936,28526768.7,23347.5
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,030498a2-c563-4ff8-884a-a8776eb10376,PathAnnotationObject,,Image,Polygon,126910.3,17232.6,40322500,27115.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,eea7f2ca-0c67-4ef4-bb83-4ee5ef78b572,PathAnnotationObject,,Image,Polygon,60653,18687.3,41127549.9,30226.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,31dcf5fa-0c63-495e-a165-a3a824dfffda,PathAnnotationObject,,Image,Polygon,115006.1,98636.1,63318925.8,33658.5
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,d46d9fe1-403b-41dd-92e9-fb13802f7da6,PathAnnotationObject,,Image,Polygon,112200.7,85745.4,57788582.9,33840.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,b3ab678b-38fa-4d50-97ce-e992d7146495,PathAnnotationObject,,Image,Polygon,93485.6,40475.8,44942786.5,27335.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,8a2070eb-e3ca-41e2-a06c-f7c394da6153,PathAnnotationObject,,Image,Polygon,113467.6,122410.2,28946794.7,24405.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,6eda1719-7fd8-40e9-9244-3d39c4ecaa38,PathAnnotationObject,,Image,Polygon,14795,67655.7,44452756.1,29980.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,6432b4de-b6d0-4148-9056-23b6c598fd14,PathAnnotationObject,,Image,Polygon,73488,73343.4,22821414.9,21915
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,48dc0ce3-3055-44a7-aea7-1aa4e9db7182,PathAnnotationObject,,Image,Polygon,7600.2,93274.4,91180653.2,40666.1
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,ed49bf07-c822-4c90-a3ae-c64c69534e66,PathAnnotationObject,,Image,Polygon,50519.1,156841.1,87382917.8,43819.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,b2ca82b5-5e5c-4ab6-8b96-116aa75ad1d6,PathAnnotationObject,,Image,Polygon,44944,63314.7,48968036,28366.8
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,05d7944e-b730-4819-963f-860a8369dd1d,PathAnnotationObject,,Image,Polygon,115102.1,165988.4,43997727.9,28858.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,649eb1ba-8296-468f-824c-e3cdbe57d6fa,PathAnnotationObject,,Image,Polygon,18765.5,50260,58278613.3,34898.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,5d5c475f-0db1-4a59-bf74-1a040ac442d0,PathAnnotationObject,,Image,Polygon,27550.9,86170.5,32377007.4,24844.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,5597297d-9163-40a8-9172-175083fbcc62,PathAnnotationObject,,Image,Polygon,123560.4,35898.4,85772817.9,39661.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,8d45b8d4-a887-4da5-ac05-fb086807d1fc,PathAnnotationObject,,Image,Polygon,59733.9,63586.3,36542265.6,25838.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,c5785689-dfcd-44d2-b549-13599931d8cc,PathAnnotationObject,,Image,Polygon,98153.2,34419.2,50228114.1,31942.6
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,f4228900-d268-44ec-9d79-fba38bee000a,PathAnnotationObject,,Image,Polygon,67708.7,150782.1,37032296,26896.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,ea72724e-5826-4f9a-83aa-013b34333b37,PathAnnotationObject,,Image,Polygon,39315.7,83616.6,80539993.5,41815.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,3340f0b7-5139-4077-bea3-558f0d22dfa1,PathAnnotationObject,,Image,Polygon,51235.9,106929.2,42982664.9,29542.5
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,29633fbe-e69f-4a8d-9c23-0e2d30f40982,PathAnnotationObject,,Image,Polygon,35967.6,54350,58978656.7,34679.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,dd6e8408-2826-4032-a145-7178d30e74b0,PathAnnotationObject,,Image,Polygon,109714.9,9681.7,84110214.8,40409.3
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,aeea71c0-6431-4373-a0f2-782a2368bd5f,PathAnnotationObject,,Image,Polygon,38607.5,150816.1,64403993.1,36111.7
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,5b293b7c-e0b3-4cb9-8ff0-5c30afcecda7,PathAnnotationObject,,Image,Polygon,29228.3,78498.8,54393372.4,30729.3
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,19f53f50-c094-4344-a990-994e339f5656,PathAnnotationObject,,Image,Polygon,55500.3,141987.4,53728331.2,32033.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,24c72299-8747-4e07-b681-9c5fe20052d0,PathAnnotationObject,,Image,Polygon,76717.9,163216.2,32061987.8,25747.6
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,886eede6-d5c4-44b1-be15-ec11f8098f0a,PathAnnotationObject,,Image,Polygon,93432.8,94665.4,55373433.2,33465.9
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,a73a1d5e-7875-489b-9141-0b792abb4b1b,PathAnnotationObject,,Image,Polygon,75513.2,35765.1,33182057.3,26148.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,0e0ada51-186b-4288-a93d-1c5c2ad45da9,PathAnnotationObject,,Image,Polygon,109912.5,157872.4,46867905.8,28019.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,0415f018-7301-4aa8-8af4-1c051b7783fc,PathAnnotationObject,,Image,Polygon,80313.6,136755.7,69654318.6,35620.2
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,63e706e5-a8e8-4072-a21f-350cfe633e31,PathAnnotationObject,,Image,Polygon,129652.6,148075.4,51890717.2,31467.4
+L10-1 FFPE Exp 14 ms Gain 1 Satur 100.tif,73f87e78-bf4b-4d0b-9987-0a57cbe28992,PathAnnotationObject,,Image,Rectangle,75538.5,90884.4,27461092591,665691.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,b1bb9129-5864-43e2-a7e5-eccd33181be7,PathAnnotationObject,,Image,Polygon,7580.3,67778.3,50473129.3,33337.5
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,6a131907-caab-4e7b-bff8-32641b6e4709,PathAnnotationObject,,Image,Polygon,165109.9,71141,81555056.4,42333.3
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,b192c6ee-904c-460a-9154-a861ba222172,PathAnnotationObject,,Image,Polygon,20339.7,16235.4,119707421.9,49121.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,6c28c00e-413c-41ae-bad8-0c98c5eb1955,PathAnnotationObject,,Image,Polygon,115774.4,32364,92895759.5,43391.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,3aeebaff-0fef-494a-9d2f-197c4c7758fc,PathAnnotationObject,,Image,Polygon,213336.4,29978.8,92195716.1,43920.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,4be0a519-61b4-49cf-902f-775298bc94c3,PathAnnotationObject,,Image,Polygon,195817.1,88086.4,220723684.9,69139.3
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,e3a9b4a8-6b9f-4669-b171-9862d10e1375,PathAnnotationObject,,Image,Polygon,160294.2,24360.7,89255533.9,46566.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,dbd57d49-1ed6-4782-83f9-7ca8d03ded6e,PathAnnotationObject,,Image,Polygon,153415.4,72357.1,88065460.1,42023.4
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,b9b8b582-ebed-4fad-85ba-0f1c5b9f0a89,PathAnnotationObject,,Image,Polygon,144671.7,77841.4,98251091.6,43985
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,a3a7736a-2b54-4fbf-a933-cf1c258eb9db,PathAnnotationObject,,Image,Polygon,53899.2,104532.7,123767673.6,49250.1
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,753fd60b-cd52-4f35-b4c4-76ebf2a40150,PathAnnotationObject,,Image,Polygon,219341.8,67065,83760193.1,43055.1
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,705fcbc6-8d04-4548-9fd7-fea91afd8a18,PathAnnotationObject,,Image,Polygon,25135.2,60113.5,83725191,41275
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,a6bdfa16-970c-4b95-863e-acc3d32f70c2,PathAnnotationObject,,Image,Polygon,130344.8,51625,105776558.2,48154.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,c52430f4-c780-4dc6-9e7e-22b9b89e23a5,PathAnnotationObject,,Image,Polygon,100389.1,41541.4,54953407.1,37570.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,dc4fa3fb-8a38-4e78-baee-4d8de2519380,PathAnnotationObject,,Image,Polygon,215454.1,122321.6,70774388,39377.5
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,d5aad713-8f07-432e-99a5-9182cc204089,PathAnnotationObject,,Image,Polygon,211868.3,96297.4,40602517.4,30691.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,fb3342b5-1317-4ea6-9353-41e6744183be,PathAnnotationObject,,Image,Polygon,86034.4,8922.9,89640557.7,41868.4
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,c681e938-0004-4798-845e-6fcde26a6b27,PathAnnotationObject,,Image,Polygon,131652.9,13819.6,83165156.2,43920.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,999e4a64-60f5-4f08-97b3-63feb43743c2,PathAnnotationObject,,Image,Polygon,145783.4,21247.8,71019403.2,37453.5
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,b3c15daa-60a6-4949-b3c7-b0e4275fbb10,PathAnnotationObject,,Image,Polygon,114661.1,44439.8,72944522.6,39687.5
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,f695fbe5-4159-432c-8630-3fff85ece47c,PathAnnotationObject,,Image,Polygon,178226.6,91097,82920141.1,39917.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,3dcfc100-d428-415a-8b70-25740517b7ea,PathAnnotationObject,,Image,Polygon,77382.9,47087.6,68324236.1,38447.6
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,ec65ba05-11e6-44ef-be2d-3a7b6320ff79,PathAnnotationObject,,Image,Polygon,206659.9,51877.1,62933901.9,34834.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,a38c8d99-98ca-460b-a951-93532936b24c,PathAnnotationObject,,Image,Polygon,127663.4,132933.1,126987873.3,51147.6
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,d60b854a-82a2-4781-a7cb-e61650cab002,PathAnnotationObject,,Image,Polygon,186197.8,54362.1,43507697.5,33091.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,f9eef013-338a-47c3-a428-c5859968c900,PathAnnotationObject,,Image,Polygon,31484.3,13329.7,93805816,44049.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,b457acb0-4bd8-4439-856c-654149acbaf9,PathAnnotationObject,,Image,Polygon,77865.5,58100.3,94890883.2,43985
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,711567d6-4f3d-4bc1-9171-a919c3f931a0,PathAnnotationObject,,Image,Polygon,143348.7,120099.5,21701345.5,21166.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,7fc2fc7e-4568-4e93-8221-43b8fb5c8cab,PathAnnotationObject,,Image,Polygon,139936.5,138406.1,39272434.9,28575
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,1c8789c1-72f6-4933-a62c-c1f4202ad7cd,PathAnnotationObject,,Image,Polygon,52015.1,123826.1,116767239.6,49212.5
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,d49c1076-5aa0-44cc-a941-22cf7509b63a,PathAnnotationObject,,Image,Polygon,47219.5,9741.2,75779698.4,41063.3
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,5df12fd7-f61e-4286-b8c4-c18a88bd0d42,PathAnnotationObject,,Image,Polygon,78922.4,108663.7,27021675.3,22134.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,fbeda45c-6b3d-4b7b-8d6f-317aed09ae7e,PathAnnotationObject,,Image,Polygon,7760,118027.7,88870510,41339.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,4bcbc8ef-edfb-4025-af98-d9a74dc562f4,PathAnnotationObject,,Image,Polygon,80506.6,66270.2,58383619.8,37041.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,0580cb33-fae6-477a-8d37-838bb2acd10e,PathAnnotationObject,,Image,Polygon,150898,94514.1,95065894.1,44450
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,a111a116-820d-4b2b-8e4d-923bd43705a1,PathAnnotationObject,,Image,Polygon,85860.2,41725.4,96465980.9,43920.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,0b21bb48-a7db-46c3-ad31-085def358584,PathAnnotationObject,,Image,Polygon,92484.3,81398.7,71684444.4,37298.5
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,92c67d14-3d1c-4b62-b7fa-58c4fea14338,PathAnnotationObject,,Image,Polygon,34909.9,72711.9,80925017.4,40745.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,a4a78cda-954c-48d3-85f6-9bb30db13f56,PathAnnotationObject,,Image,Polygon,170714.1,122199,90970640.2,43145.9
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,2d1ac82f-c950-41a1-b38a-530a7993af28,PathAnnotationObject,,Image,Polygon,176078.5,134895.9,74344609.4,38538.4
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,e181c2c5-5006-4276-b8dc-6476cb80676a,PathAnnotationObject,,Image,Polygon,98864.7,32300.2,93875820.3,46566.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,878edcdc-9d4e-4e97-b06a-7665bb56ab66,PathAnnotationObject,,Image,Polygon,197055.8,103356.8,91495672.7,43920.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,4618ee0f-b768-418b-8748-05ac3641c1ed,PathAnnotationObject,,Image,Polygon,191166.7,16426.7,93455794.3,43081.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,783b65f5-ee76-433a-8e9b-144157e61fae,PathAnnotationObject,,Image,Polygon,104929.4,20804.9,77074778.6,40745.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,61cdb81a-93b3-41c1-b5fb-122ee47d9e5c,PathAnnotationObject,,Image,Polygon,216312.5,59371.3,68149225.3,37854.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,6a2be6fa-2238-450e-829a-1fb82f5702f0,PathAnnotationObject,,Image,Polygon,14880.3,42723.8,75044652.8,39158.3
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,1a31abc4-4ab3-46ce-9f63-f7af4576ae8e,PathAnnotationObject,,Image,Polygon,57302.1,39745.9,227409099.4,70713.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,326a63f3-a50e-4a50-a4f4-d2ce8644d992,PathAnnotationObject,,Image,Polygon,206572.2,119510.6,34022109.4,26057.6
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,865dfad6-8f25-4be2-a551-78b052b9f9b4,PathAnnotationObject,,Image,Polygon,207633.5,74495.5,127617912.3,49469.3
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,64b168b2-4cf8-4e67-a29c-8753ecd3f7ef,PathAnnotationObject,,Image,Polygon,59626.1,114190.4,77739819.9,39970.9
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,a2284c93-0e0d-4666-8b9f-72e7501928aa,PathAnnotationObject,,Image,Polygon,57282.4,27682.8,63528938.8,41120
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,2f171a1c-f00f-45f4-9f26-99fdaef5c8d9,PathAnnotationObject,,Image,Polygon,92553.5,47637.7,32692026.9,26458.3
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,732c5e55-9c14-4048-a245-4ad8704be890,PathAnnotationObject,,Image,Polygon,125593.7,75760.5,91285659.7,43391.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,6bbe464a-427b-4e1f-b07c-774c910d6d19,PathAnnotationObject,,Image,Polygon,89272.6,59929.1,55723454.9,34925
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,5d8457a0-85da-4d25-84da-c7380d482966,PathAnnotationObject,,Image,Polygon,12078.3,25463,135073374.6,54258.4
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,f9d30058-a4f2-4fd7-a449-533af4a493b7,PathAnnotationObject,,Image,Polygon,95850.4,51671.6,33672087.7,28575
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,7fa17342-98b2-444a-8948-267ed651f62d,PathAnnotationObject,,Image,Polygon,103518.7,76468,107316653.6,50308.4
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,12b8b20a-4255-471c-869f-ea0b616c97a6,PathAnnotationObject,,Image,Polygon,133852.8,104993.2,85352791.9,44348.9
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,6045577b-9088-4b35-8a93-dc250021d17a,PathAnnotationObject,,Image,Polygon,197741.7,38772.2,111330003.1,47215.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,dfb6d012-48cf-48a0-8865-874b3c446d15,PathAnnotationObject,,Image,Polygon,172549.9,105062.3,99056141.5,46037.5
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,642e103a-8694-49b3-81b5-b986b8dbdabd,PathAnnotationObject,,Image,Polygon,100940.3,100928.5,83375169.3,41275
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,f05c27cb-b133-4556-bb7b-0d43b68aaedd,PathAnnotationObject,,Image,Polygon,57946.8,11799.4,66224105.9,37570.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,2dd6ab95-f350-4b99-acf6-6732198b36a9,PathAnnotationObject,,Image,Polygon,135630.9,24171.2,112987005.2,49741.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,cd0c15ba-c80b-4ad9-a250-4160e7bc9279,PathAnnotationObject,,Image,Polygon,211472,101241.1,27301692.7,25400
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,5d0558f1-3598-4c44-9832-42b3c3717185,PathAnnotationObject,,Image,Polygon,61122.6,62978.6,83165156.2,39944.3
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,cb0e3a4b-1436-466c-9b0d-2ab10bcf4619,PathAnnotationObject,,Image,Polygon,63716,82966,104586484.4,44578.4
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,32613cb2-748b-4203-9ba7-fbc2d398ed7d,PathAnnotationObject,,Image,Polygon,122781.1,91629.5,39272434.9,31220.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,34ac54ae-888e-4580-b878-3eef9d28ae16,PathAnnotationObject,,Image,Polygon,177169.5,22023.4,96185963.5,44578.4
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,61e2c8d5-879e-47d2-aa97-09187b19071f,PathAnnotationObject,,Image,Polygon,113695.5,22954.5,51733207.5,33337.5
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,a2f20418-d7e3-47a3-8ffe-b5ff9cf038e4,PathAnnotationObject,,Image,Polygon,151988.1,105667.9,94995889.8,45508.3
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,4b52d935-7bdb-4ac2-bab6-bf34d58b709e,PathAnnotationObject,,Image,Polygon,154014.8,16707.7,71614440.1,39158.3
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,82aa43a8-f99a-439c-a2ea-8b08145a6833,PathAnnotationObject,,Image,Polygon,29854.5,27783.7,89920575.1,43675.1
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,6d5580d4-4385-43d7-a176-05b56700e348,PathAnnotationObject,,Image,Polygon,206627.5,105886.8,78264852.4,40216.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,c00b9521-33e1-481c-9c05-15c3d0a6a1d1,PathAnnotationObject,,Image,Polygon,206265.7,6722.7,69374301.2,38009.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,96cf1eb4-c405-45d5-ad29-4aed32f4d201,PathAnnotationObject,,Image,Polygon,153419.1,119570.9,126217825.5,51329.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,8bf3fad9-a687-46ef-9c65-e865ec124cf0,PathAnnotationObject,,Image,Polygon,174681.1,115048.5,55933467.9,35454.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,2bddfd8b-fa9b-4f22-84dd-75f1bbd3d6cc,PathAnnotationObject,,Image,Polygon,108977.3,82506.9,49003038.2,33065.1
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,ef2235be-9ff6-4d6d-b963-8bc54ebfdfcb,PathAnnotationObject,,Image,Polygon,12436.9,91984.9,58838648,35299.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,f41723e8-1047-4dfb-bdb5-979253efaf6f,PathAnnotationObject,,Image,Polygon,171716,47063.2,12845796.4,15410
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,d2fc3ad5-a55c-40da-afd0-06c37eb37eb2,PathAnnotationObject,,Image,Polygon,203079.4,23485.9,107526666.7,46893.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,efce5b14-0001-4b7a-b220-1b40f15d4e9e,PathAnnotationObject,,Image,Polygon,74430.1,117523,75989711.4,40280.9
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,6f63c15d-7a7f-4c9a-8e44-c48abc48b673,PathAnnotationObject,,Image,Polygon,48135.1,83375.3,103571421.4,45043.4
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,79a4a71b-f43d-4e78-b85d-57fdc435611c,PathAnnotationObject,,Image,Polygon,205255.7,125687.5,58698639.3,36795.9
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,de8097db-51fb-49d9-b183-c0a73d2bbef1,PathAnnotationObject,,Image,Polygon,81019.9,134625.3,76164722.2,39158.3
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,2ff561c7-e21b-4eae-9b64-52ce1e0e2ce1,PathAnnotationObject,,Image,Polygon,185736.4,96433.6,39482447.9,28265
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,319bf7b4-33a7-4a2f-a7e6-f524888e5a4c,PathAnnotationObject,,Image,Polygon,128649,68061.2,41862595.5,31750
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,eaad52c7-0c95-4514-b1af-254b314ea51e,PathAnnotationObject,,Image,Polygon,156343.8,80799.7,72034466.1,39634.3
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,10bd84db-1201-40fb-835e-3c4dd970c51b,PathAnnotationObject,,Image,Polygon,104254.4,7528.8,99581174,45791.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,1ad8f577-fd92-47ce-80bb-4f00d8a2834e,PathAnnotationObject,,Image,Polygon,87820,106577.6,84355230,41804.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,09fb333a-4cb2-4f0b-b02f-6f5e45f76731,PathAnnotationObject,,Image,Polygon,144857,38817.4,93035768.2,43391.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,256f271e-aa96-462b-bd3c-ee585533eef5,PathAnnotationObject,,Image,Polygon,87337.4,27390.2,62163854.2,33065.1
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,520f48f2-acdc-4c9e-bf68-cd39c5e21276,PathAnnotationObject,,Image,Polygon,221823.4,52424.6,30276877.2,25245
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,b0e524f1-94a4-4303-803c-a5ab112517d1,PathAnnotationObject,,Image,Polygon,86276.3,96920.3,84565243.1,42333.3
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,1f31acd9-19c1-467e-a77c-289ea32b71e5,PathAnnotationObject,,Image,Polygon,107667.7,36790.7,82255099.8,43920.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,9550fe84-ee33-413f-a492-d349a682fe0f,PathAnnotationObject,,Image,Polygon,103891.9,57169.5,116627230.9,49027.4
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,38c7af64-42d2-437a-a3bd-b6eb9c0d3736,PathAnnotationObject,,Image,Polygon,183578.3,122030.9,91705685.8,42023.4
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,9ef8a986-9fe1-4967-850a-5cca50a40240,PathAnnotationObject,,Image,Polygon,170390,83515.4,93770813.8,44514.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,e2ea0f22-0961-46b8-92ae-3e9c5477b009,PathAnnotationObject,,Image,Polygon,215090.5,113992.3,72454492.2,38629.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,1b16c9c4-4b92-4970-af08-47efbec31c14,PathAnnotationObject,,Image,Polygon,124369.3,61957.1,74484618.1,38009.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,115a20c1-2924-4c4b-b626-0a2225c61b87,PathAnnotationObject,,Image,Polygon,168321.2,29375.5,73154535.6,40216.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,519f4670-4e6d-47ea-bfd9-8abffa1a6ae6,PathAnnotationObject,,Image,Polygon,186785.4,37046.5,94085833.3,42990.9
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,d6578b46-2921-40e9-8601-b3ae42f31182,PathAnnotationObject,,Image,Polygon,83319.6,76843,123277643.2,50089.3
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,5e5f0906-6ebf-47d2-a95d-0d32bc4d61ff,PathAnnotationObject,,Image,Polygon,169579.6,61671.9,106896627.6,46037.5
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,68599b41-4660-4fe1-b501-52778f7b6abc,PathAnnotationObject,,Image,Polygon,121717.8,19270.1,74904644.1,39286.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,3bca7068-1e1c-4406-972f-c3553391d23c,PathAnnotationObject,,Image,Polygon,144994.8,49534,112987005.2,50270.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,72bc9b63-ca16-4bc5-8507-3faaab92c22d,PathAnnotationObject,,Image,Polygon,98472.2,110129.5,91425668.4,42862.5
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,52abb14d-b731-4a29-93b6-b62b4679a774,PathAnnotationObject,,Image,Polygon,95802,13111.7,59048661,37415.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,dd3a3a58-1b69-4e25-bdef-fad9a302eed7,PathAnnotationObject,,Image,Polygon,56206.5,52369.3,122052567.3,47908.4
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,444be7bf-7107-4a83-aaed-730eb60200a9,PathAnnotationObject,,Image,Polygon,180042.2,11673,74484618.1,38629.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,f9fe982e-3d38-4822-8f1a-a4c5af0be704,PathAnnotationObject,,Image,Polygon,39979.7,94919.9,98671117.6,43055.1
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,d6510b6f-a91b-4eab-9cf6-147fa5f54c81,PathAnnotationObject,,Image,Polygon,123779.8,39666.1,66784140.6,37368.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,704b2fb3-9cde-436f-b3a3-35f764cc8b48,PathAnnotationObject,,Image,Polygon,38240.9,107689.3,123382649.7,50682.6
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,81340c45-8e9e-485a-9d35-4899509c58aa,PathAnnotationObject,,Image,Polygon,61416.8,21532.5,57998595.9,34240.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,c449b0c0-91d3-4bfa-aa6c-1d4f85e58583,PathAnnotationObject,,Image,Polygon,119831.6,102879,114072072.5,50645
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,8b0ea1f5-4347-49b4-9d7f-d341aab5c7de,PathAnnotationObject,,Image,Polygon,182475.3,75653,240359902.3,70967.1
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,002704dd-5d81-40ea-85f9-b55edc7b0343,PathAnnotationObject,,Image,Polygon,59150.2,74544.3,80259976.1,41339.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,7f69724f-7387-4ded-b2ff-36f66d5eaffa,PathAnnotationObject,,Image,Polygon,153266.8,61288.2,96851004.8,44824.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,b41de772-dc7c-40f2-8a3d-622cad39e390,PathAnnotationObject,,Image,Polygon,98556.5,88705.2,95135898.4,46566.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,285a906d-4b25-4119-8c7a-f5dd5a0ef34d,PathAnnotationObject,,Image,Polygon,219740.2,97666.2,74204600.7,41275
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,12d23c77-abc0-40c4-a0c0-51f1c6ba3b0a,PathAnnotationObject,,Image,Polygon,87312.4,121998,175010850.7,61201.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,a74d5b9a-344d-406a-9519-907aefdd7672,PathAnnotationObject,,Image,Polygon,134929.5,85554.8,142108810.8,54504.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,27a5c425-5d5e-4923-83de-343560ccf119,PathAnnotationObject,,Image,Polygon,77015.3,100620.9,17186065.5,17745.9
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,9f98cb90-d4b3-4000-8713-f7b2103d2a91,PathAnnotationObject,,Image,Polygon,105489.3,126007.5,117753075.5,53112.4
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,7b98f270-1b6d-4b35-a7c6-ff28ade0a486,PathAnnotationObject,,Image,Polygon,97899.7,134242.8,67309173.2,37635
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,ace9701b-4d78-4fdb-8496-17543e19d8a6,PathAnnotationObject,,Image,Polygon,68828.3,51731.6,74904644.1,36459.3
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,deb252ea-3c01-4bd0-9c13-622f8365ffee,PathAnnotationObject,,Image,Polygon,28390.3,47044.9,83235160.6,41713.4
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,29dae26a-b21f-425c-b787-c0428fb22790,PathAnnotationObject,,Image,Polygon,136528.6,95786.2,114317087.7,49741.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,dc365f59-61b2-4cbb-b880-6c410a8e3bd5,PathAnnotationObject,,Image,Polygon,111939,113288.9,106622385.4,47163.1
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,448b981b-4867-4ea1-8c2d-f5111eee3398,PathAnnotationObject,,Image,Polygon,157549,44461.5,115192141.9,47016.1
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,6970896f-2df3-4825-a079-363e28b45c34,PathAnnotationObject,,Image,Polygon,35433.2,57470.9,85545303.8,43391.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,fcac176a-86e1-4537-9f89-be22384f6d1b,PathAnnotationObject,,Image,Polygon,194313.3,126220,39517450.1,27890.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,0bf892f8-d101-47a1-80e6-6f9e581990bc,PathAnnotationObject,,Image,Polygon,160536.7,88867.4,81345043.4,41804.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,47d771bd-6d10-41a7-8c9f-d5218c0f89b8,PathAnnotationObject,,Image,Polygon,92227.9,65716.5,50263116.3,36512.5
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,7451b52e-845c-48fa-901c-6dbd8b8aa3cb,PathAnnotationObject,,Image,Polygon,116623.3,54411.6,73714570.3,42333.3
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,25897b5f-aea4-4ec8-96a3-ef5682281d41,PathAnnotationObject,,Image,Polygon,32023.7,81997.4,103011386.7,47379.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,e14acaf1-b39e-4d26-863d-197a42f6aa38,PathAnnotationObject,,Image,Polygon,73173.3,26616.3,86665373.3,42333.3
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,8129ac0b-0305-4ec4-a48a-85207e6a127b,PathAnnotationObject,,Image,Polygon,86132.9,52649.9,60658760.9,34059.3
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,31ab4601-4d0c-4d04-bfb6-491df46da2bc,PathAnnotationObject,,Image,Polygon,113238.3,132875.4,50788148.9,33711.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,d413e33d-6fb0-49fd-8272-eac47c486081,PathAnnotationObject,,Image,Polygon,38432.7,25762.2,84530240.9,42397.5
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,f1f90024-5848-4f35-ab2e-ccdb77e30257,PathAnnotationObject,,Image,Polygon,70576.4,6030,20931297.7,20017.5
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,a0fa27cf-ecec-456d-a8fb-c4dbe0519cb0,PathAnnotationObject,,Image,Polygon,64250.2,95321.2,90865633.7,42552.5
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,468f73cf-30b0-42d7-af54-d5d7afdb9263,PathAnnotationObject,,Image,Polygon,22024.1,35822.6,96010952.7,44204.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,9d2caa21-fb06-4c93-b9dc-e35662febf89,PathAnnotationObject,,Image,Polygon,38874.5,45560.1,80680002.2,39970.9
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,56cf4fc8-4435-4050-8324-5868d1857428,PathAnnotationObject,,Image,Polygon,65476.7,123066.1,94085833.3,46566.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,f1a53b87-923f-46f4-9a29-06659a25b7a6,PathAnnotationObject,,Image,Polygon,95947.8,71110.4,67694197,41804.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,36eb9481-4601-4343-bcb5-2a21dd8644ca,PathAnnotationObject,,Image,Polygon,110027.7,97621.4,75569685.3,42306.7
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,f6e18e17-f129-401b-9274-c5c834620879,PathAnnotationObject,,Image,Polygon,167486.3,13930.6,73644566,40745.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,c661c63d-9553-46b8-9880-6d2d275c1944,PathAnnotationObject,,Image,Polygon,195326.5,50623.5,30556894.5,29697.5
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,c08b3173-ccd6-4295-ae69-0453adbd8198,PathAnnotationObject,,Image,Polygon,163329.9,130732.2,110851872.8,47379.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,05d26cad-4421-4f44-830b-714326a41790,PathAnnotationObject,,Image,Polygon,118383.2,85083.8,82115091.1,41804.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,01a1ca08-2f05-4a44-9483-a69a20f2bbb8,PathAnnotationObject,,Image,Polygon,13606.6,101190,97726059,43210.1
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,b1f82262-93ea-44bf-b14d-b397700bdc5b,PathAnnotationObject,,Image,Polygon,135127.7,115366.9,104201460.5,48437.6
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,8ea96a85-f047-4527-9582-d0b86bf0fdcf,PathAnnotationObject,,Image,Polygon,144319.8,111053.6,69374301.2,40014.5
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,a337afa0-5ca0-4c1b-b615-d8b72fd96adb,PathAnnotationObject,,Image,Polygon,140339.9,11624.2,66924149.3,37570.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,6c4688f8-46e4-4875-94ff-57dda50754e8,PathAnnotationObject,,Image,Polygon,10526,137155.3,87155403.6,42552.5
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,4b5268a9-8b5c-40b1-b72d-61ad76eb2d44,PathAnnotationObject,,Image,Polygon,215136.4,84636.9,101436289.1,45326.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,5093001b-5aeb-4c3e-8cfa-383f7e0cac92,PathAnnotationObject,,Image,Polygon,69609.1,17673,37767341.6,27890.8
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,78153311-c3eb-4c58-b21b-7d8a9c4a3082,PathAnnotationObject,,Image,Polygon,145385.1,131217.2,82710128,41029.2
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,6720b959-2ebd-4966-ba6c-2d044e154c0b,PathAnnotationObject,,Image,Polygon,75801.4,13099.1,83830197.5,41467.6
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,0b7cdeee-52f4-444e-a4aa-72c27870f49c,PathAnnotationObject,,Image,Polygon,192928.6,60069.5,100211213.1,44733.4
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,a717c7c0-c06b-4055-967d-9ca6ae835cda,PathAnnotationObject,,Image,Polygon,151927,7402.9,80574995.7,39687.5
+L23-1 Cryo 2 Exp 15 ms Gain 1 Satur 100.tif,88b25ef5-d4b9-4d4d-812c-e370faf2f84e,PathAnnotationObject,,Image,Rectangle,112712.5,71040.6,32028665781,735012.5
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,0b4eef63-d58c-4225-b2b1-546cab67d92b,PathAnnotationObject,,Image,Polygon,102982,155389.3,49913094.6,32626.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,caccf2e1-ca80-40e4-9385-626e9ac3e29f,PathAnnotationObject,,Image,Polygon,62044,28586,57998595.9,32819.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,b335f152-50e0-4b66-bbc8-cb336b85dec0,PathAnnotationObject,,Image,Polygon,158796.1,16098.7,90655620.7,41221.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,bc5fade2-61b6-4a0e-bf80-6e564ceefa34,PathAnnotationObject,,Image,Polygon,19949.4,180880.8,81275039.1,34803.1
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,f5b8fa99-3fbf-42d3-b12d-26319349aa78,PathAnnotationObject,,Image,Polygon,89249.7,66237.8,121002502.2,47855.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,a67f1d98-6937-4669-9086-f498ce060dec,PathAnnotationObject,,Image,Polygon,97957.1,121441.2,65489060.3,31435.5
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,40e94f2f-99c2-461d-98dd-246d7a6888a1,PathAnnotationObject,,Image,Polygon,135848.2,186097,94015829,36919.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,fd755ea7-3b9c-4e9e-8356-7ba0f9344287,PathAnnotationObject,,Image,Polygon,19487.4,21652.6,97026015.6,37267.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,5f827f86-73f8-4d49-8aab-72fe6a4e9ee6,PathAnnotationObject,,Image,Polygon,32302.2,30014.4,105776558.2,45802.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,7d2525b2-bdbb-4f0e-805e-d3e937928c45,PathAnnotationObject,,Image,Polygon,63673.3,10025.4,29051801.2,23101.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,7964c180-aa0f-4c47-844f-d4bb3828716c,PathAnnotationObject,,Image,Polygon,32959.4,165423.5,83970206.2,39169.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,3cc6d318-860d-422c-946a-80cabfec5bcd,PathAnnotationObject,,Image,Polygon,7782,84199.4,76829763.5,38731
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,a8dfbf95-9bf6-42a3-88fe-82eeed982ed2,PathAnnotationObject,,Image,Polygon,119409.1,94852.2,53238300.8,29099.6
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,6a500092-75b2-4c61-afd6-6b118572395e,PathAnnotationObject,,Image,Polygon,115995,119305,70844392.4,39324.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,239b4903-eb5a-429e-a1d3-9bb783e8982b,PathAnnotationObject,,Image,Polygon,66881,188265.6,85405295.1,41929.1
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,77150db7-a5a1-4590-9574-4aa0cd316234,PathAnnotationObject,,Image,Polygon,16250.4,137130.7,72559498.7,38731
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,3823032a-65c3-48c1-99d8-0336482dd1ec,PathAnnotationObject,,Image,Polygon,22716,40261.5,37137302.5,28019.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,2d54f43c-5204-4a16-9f49-9710b35f44c7,PathAnnotationObject,,Image,Polygon,56048.6,74176.4,72874518.2,37827.6
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,40e6265e-3a95-4c81-9f4d-84d65d8a2498,PathAnnotationObject,,Image,Polygon,42770.1,97936.9,84355230,40783.4
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,9fc383db-dca2-4022-ad7d-f728f6eeec01,PathAnnotationObject,,Image,Polygon,136365.3,52906,83025147.6,40745.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,3b8cb4db-795e-4ee8-8e1e-a958286f7f67,PathAnnotationObject,,Image,Polygon,110345.2,104546.5,70214353.3,34652.6
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,b21372b8-195c-43c6-abcc-56a91c6618fa,PathAnnotationObject,,Image,Polygon,73254.6,172164.1,40795029.3,24034.9
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,9472d7ea-f980-4c0e-ab04-f0569e9ed110,PathAnnotationObject,,Image,Polygon,38308.8,122666.1,48162986.1,29361
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,0ff9ff0e-50ee-46af-8f10-1f3841f45bfb,PathAnnotationObject,,Image,Polygon,74707.3,61340.5,92755750.9,43391.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,559cb935-3502-4849-b636-d782b83b509c,PathAnnotationObject,,Image,Polygon,83077.9,109355.5,98601113.3,44022.6
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,c14c9c57-018d-46dd-8b26-cc2cfc9fd53b,PathAnnotationObject,,Image,Polygon,23145.3,143123.8,79979958.8,40227.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,123deb37-82f1-47de-9c85-f98dd644bb93,PathAnnotationObject,,Image,Polygon,66193,56856.4,54270864.8,33493.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,319be145-ea5d-48a2-aeb9-f03a1ec10420,PathAnnotationObject,,Image,Polygon,163391.8,89106.9,104236462.7,44450
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,a08fb2b4-198c-4eac-8ec5-b8437d0badef,PathAnnotationObject,,Image,Polygon,132225.5,86062.5,69899333.8,32365.4
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,2f3f2168-42ad-4c56-9af1-d1df0a92ea95,PathAnnotationObject,,Image,Polygon,120461.1,130791.3,87470423.2,35797.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,6ccba325-21b9-439a-a6b0-b90718e9904f,PathAnnotationObject,,Image,Polygon,81933.8,20600.9,105426536.5,45145.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,e37db53d-89b3-4f2d-8902-3b8e7e0be267,PathAnnotationObject,,Image,Polygon,107866.5,44506.6,40865033.6,24254.1
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,4948debe-8d70-4da7-8ced-8565c0678b57,PathAnnotationObject,,Image,Polygon,127746.2,10017.5,80574995.7,37116.9
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,ab775350-aa81-4bf0-a41d-3617eb25fe43,PathAnnotationObject,,Image,Polygon,13718.3,129162.3,60063724,30131.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,8e837b74-239d-4d9d-bbbb-3a9220bdb517,PathAnnotationObject,,Image,Polygon,84855.8,59074.1,57823585.1,33904.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,44c456ee-800f-4f08-88a5-4402decaeec7,PathAnnotationObject,,Image,Polygon,150152,39677.5,81240036.9,40099.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,bec16616-d4c6-4635-bca0-89264374ea99,PathAnnotationObject,,Image,Polygon,141247.1,41841.7,91005642.4,41622.6
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,75ae858a-2cf0-4c5b-8953-77bc040db308,PathAnnotationObject,,Image,Polygon,16352.2,62272.8,70494370.7,38356.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,232b91dc-870d-4e7d-9aa6-610dbfda0e5a,PathAnnotationObject,,Image,Polygon,48266.3,149308.5,84792757.2,35286.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,8306cdb6-2a54-416e-a139-d6fb55387d65,PathAnnotationObject,,Image,Polygon,131155.6,65043.3,69286795.8,31790.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,01654dd8-487b-4c37-b1ed-b6de1fc5b1bf,PathAnnotationObject,,Image,Polygon,115739.2,146067,51838214,32781.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,ace44f70-ceb3-4058-9a84-bcd830521511,PathAnnotationObject,,Image,Polygon,113163.5,40264.5,26146621.1,23566.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,32991bb1-d6e7-48e4-abc8-351e275bcce3,PathAnnotationObject,,Image,Polygon,67393.4,98674.7,81520054.3,39570.1
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,74a07abc-6078-49b5-b36a-e31d967f9005,PathAnnotationObject,,Image,Polygon,53132.3,105143.8,90025581.6,41841.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,fa852f88-72f2-4afd-8fbc-a581ebd853de,PathAnnotationObject,,Image,Polygon,58943.8,162685.3,51138170.6,30884.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,e44e4fbf-1451-47c9-a70d-e1f4662f8253,PathAnnotationObject,,Image,Polygon,104709.1,175219.1,74484618.1,33177.9
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,0b99ccdb-5b21-4982-b24b-a317391a2cc4,PathAnnotationObject,,Image,Polygon,83224.6,126244.1,53273303,32996.4
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,a4271710-c569-4c89-b5f4-a469ce87a2eb,PathAnnotationObject,,Image,Polygon,80669,159932.3,29926855.5,23566.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,417fc6e2-a75c-4c22-ac6b-fe0c0afdc3c0,PathAnnotationObject,,Image,Polygon,118683.2,65146.7,96500983.1,42654.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,8e358f69-76c6-42b5-a7bb-3fa00bea27f2,PathAnnotationObject,,Image,Polygon,64569.1,107145.9,59958717.4,35556
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,4986e448-b966-4c3b-a7c8-c9314a204130,PathAnnotationObject,,Image,Polygon,58211.1,190232.6,26601649.3,24341.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,aa3d4e67-b1ca-4854-afec-e78f8fdc0a1a,PathAnnotationObject,,Image,Polygon,143319.2,10211,87960453.6,40537.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,33a47b7c-810f-4883-9f79-a9b11f82e2ab,PathAnnotationObject,,Image,Polygon,69908.3,125813.9,58698639.3,35117.6
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,1347af32-5ab9-46ef-ad4c-d4175d922560,PathAnnotationObject,,Image,Polygon,27778.5,182946.4,41687584.6,29516
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,58988e1b-fa9c-4da3-8ae9-7257e516898b,PathAnnotationObject,,Image,Polygon,13149.9,29953.8,78918342.9,33298.6
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,38ee4104-c027-4653-8655-76d0f0f52f0d,PathAnnotationObject,,Image,Polygon,22158.7,11265.6,96710996.1,37165.5
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,8f5b45a9-470b-483d-9b5e-ed12ff15ce5a,PathAnnotationObject,,Image,Polygon,33270.7,93809.4,89500549,42125.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,1e302484-9e72-4953-a18f-aa981c12d2f7,PathAnnotationObject,,Image,Polygon,6591.8,74882.6,71369424.9,35246
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,59e79719-0251-455c-8038-7b52cf2ba598,PathAnnotationObject,,Image,Polygon,124480.7,88879.4,87120401.5,40446.9
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,2ac6d590-6374-44f0-84d9-02232b000257,PathAnnotationObject,,Image,Polygon,36975.7,83854.1,90515612,43648.5
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,9eb613ab-5a77-4aa4-995d-9db63d381174,PathAnnotationObject,,Image,Polygon,57754.4,6913.5,79262414.3,35772.4
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,d6258ad4-32cf-4d50-bb84-24914d0ba5f3,PathAnnotationObject,,Image,Polygon,42738.1,43245.1,78124843.8,37978.1
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,fef70823-be16-4051-8557-ef6197e1d020,PathAnnotationObject,,Image,Polygon,49563.9,180169.4,85953778.5,35131.9
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,b2044376-16f1-4535-8b5d-4a4668dbef7b,PathAnnotationObject,,Image,Polygon,9660,171612.7,107666675.3,45145.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,ada43768-3a9d-43f2-a600-3e6956f339f4,PathAnnotationObject,,Image,Polygon,146112.5,145151.9,35579705.9,22912.4
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,8e90fee8-63db-491f-b085-7f420dc40507,PathAnnotationObject,,Image,Polygon,125284.3,19214.9,89640557.7,40008.5
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,77d00c41-44eb-4ac7-9712-298ca72ecffd,PathAnnotationObject,,Image,Polygon,4057.1,37111.5,75114657.1,33049.6
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,895ca1e8-55cc-4175-b160-ccb3c4e3a723,PathAnnotationObject,,Image,Polygon,118975.8,100103,43227680.1,31836.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,89c22414-a5c1-4451-a282-74fd6ed1068b,PathAnnotationObject,,Image,Polygon,79555.1,78375.9,111096888,53445.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,c75c9776-4191-4be8-b914-dd49c04e6e76,PathAnnotationObject,,Image,Polygon,56368.8,126498.7,84635247.4,41275
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,6213f273-134c-4111-bf93-a77cc81df855,PathAnnotationObject,,Image,Polygon,55035.2,115697.7,58663637.2,34395.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,83fa4d65-04fd-4b4c-ba52-e8f2ff47ffe7,PathAnnotationObject,,Image,Polygon,112855.8,129247.6,19286195.7,16543.6
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,54878f2e-bf62-4c67-bf19-859b875acda3,PathAnnotationObject,,Image,Polygon,32434.6,50124.3,64228982.2,32841.4
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,54420dfb-169e-4607-aa66-bf7393951f9e,PathAnnotationObject,,Image,Polygon,54456.9,84440.9,82850136.7,38640.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,30e0d9f5-9cbb-428a-ba62-712c03e43fa4,PathAnnotationObject,,Image,Polygon,109486.2,57914.6,75744696.2,37827.6
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,73e4dbf2-454b-4f3b-86d1-5aa77e506d90,PathAnnotationObject,,Image,Polygon,45518.6,117195.4,82885138.9,40216.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,a944b87c-38fa-4de7-8935-53853e7cdba3,PathAnnotationObject,,Image,Polygon,131067.2,104048.8,101891317.3,39063
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,05996479-2515-4fae-8886-25f81a41d2f9,PathAnnotationObject,,Image,Polygon,45301.1,76080.4,114947126.7,46422.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,0691957d-db6a-44b2-b4e6-067b2472090b,PathAnnotationObject,,Image,Polygon,102294.8,112865.8,76969772.1,36742.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,f69e4b5e-c7e4-4dc8-b844-59bed1290968,PathAnnotationObject,,Image,Polygon,128224.2,159821.3,78999898,33680.5
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,03ff5f8b-57cd-4e3e-afe4-6ae8ed52bb91,PathAnnotationObject,,Image,Polygon,68483.6,163173.8,56931029.7,31454.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,46d2b748-27b0-4fb2-b00f-8e15a7d41f53,PathAnnotationObject,,Image,Polygon,90252.6,119708.9,66784140.6,34017.1
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,7e18caf6-b411-4e01-9c61-6779780e777f,PathAnnotationObject,,Image,Polygon,120673.3,73533.3,49353059.9,30948.5
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,b42d7802-17b7-4af4-b807-e951085c07fc,PathAnnotationObject,,Image,Polygon,82640.9,171951.2,96991013.5,37603.9
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,0d6ea0ee-a683-4f18-8a55-a89d6c859085,PathAnnotationObject,,Image,Polygon,131744.9,75633.3,95345911.5,42499.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,5f1b5e89-9db3-4d42-9076-a5aa586fa0bc,PathAnnotationObject,,Image,Polygon,108288.8,14964,88695499.1,42862.5
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,c7a0888c-c2fe-4695-b6a8-c472c58fc109,PathAnnotationObject,,Image,Polygon,85397.9,135691.4,83200158.4,38549.4
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,b99b3805-db0c-4996-ac07-4befe204d4ea,PathAnnotationObject,,Image,Polygon,19086.6,189530.5,34004608.3,23195.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,d95c6d5b-c6e3-4249-8549-83d9b1a6be1c,PathAnnotationObject,,Image,Polygon,138207.7,21613.1,85440297.3,41467.6
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,a77cb735-572c-419f-8e05-4ec3e8e00e72,PathAnnotationObject,,Image,Polygon,142327.1,86222.5,98496106.8,44979.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,36a74dab-ab13-4517-8d67-f02aa8c99354,PathAnnotationObject,,Image,Polygon,59488.8,65440.6,104936506.1,47422.9
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,60cd4a05-f415-4334-9f72-0d22c15347d0,PathAnnotationObject,,Image,Polygon,16614.5,162428.2,102888879.1,39803.5
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,44fc60e3-ed00-4170-abd8-3790bf47c14f,PathAnnotationObject,,Image,Polygon,12463.2,110705.5,121037504.3,47700.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,3a9de3ff-0bae-48d3-895d-163f40ce4538,PathAnnotationObject,,Image,Polygon,125200.4,39694.8,92860757.4,37603.9
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,cb2729dc-989f-4762-ab8a-f0606708ad7e,PathAnnotationObject,,Image,Polygon,127214.1,49020.9,64053971.4,35454.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,ec1718d1-6588-406b-ac2e-c98d83f8386e,PathAnnotationObject,,Image,Polygon,44859.9,129531.4,72944522.6,40382.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,09daf7cd-513d-48c8-a51d-9c1135bfee8e,PathAnnotationObject,,Image,Polygon,21693.2,129976.3,48618014.3,27073.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,83e4c74c-100b-4cf8-a464-834adb36266c,PathAnnotationObject,,Image,Polygon,14957.1,91086.5,79594934.9,38485.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,2557fbea-141b-4840-a092-8d4473f4b0ae,PathAnnotationObject,,Image,Polygon,34789.3,19251.8,58949604.8,29885.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,0c14c4c5-348a-4043-969a-b4e97160b947,PathAnnotationObject,,Image,Polygon,117641.2,51672.5,87855447,43391.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,683d4f6c-0c8a-41d4-92c4-263138bbb22d,PathAnnotationObject,,Image,Polygon,99199.2,102537.4,83340167.1,39260.1
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,796eff70-464c-44be-b0b5-ade0b5a74980,PathAnnotationObject,,Image,Polygon,107609.2,122063.2,35387194,27051.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,9269afc7-bedc-4004-8ac1-1bdac299f2b2,PathAnnotationObject,,Image,Polygon,90884.2,81250.2,119497408.9,47881.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,d193bcff-45b4-421c-9e3e-65ac88038c29,PathAnnotationObject,,Image,Polygon,93067,19817.9,88345477.4,40399.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,150d6ce3-9556-4298-b420-36c4790f9811,PathAnnotationObject,,Image,Polygon,112545.3,112558.3,79314917.5,36988.5
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,f147e50c-73c0-4f42-8944-7b7f643dc078,PathAnnotationObject,,Image,Polygon,98413.1,144043.7,66084097.2,36860.1
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,f25ceb9d-cf82-4ed3-9436-432bf6317bfe,PathAnnotationObject,,Image,Polygon,27674.3,156400.7,81275039.1,34107.9
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,958ff0dd-d01f-4c62-a3d6-39cef3272a41,PathAnnotationObject,,Image,Polygon,154503.1,142868.2,27529206.8,21324.9
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,0af6286c-8601-4886-b7b3-0f1345323e14,PathAnnotationObject,,Image,Polygon,21788.1,168499.1,65734075.5,34840.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,9b3c8b06-4c54-41bf-b368-575de88098a6,PathAnnotationObject,,Image,Polygon,121688.9,171629,98321095.9,39282.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,b24d9f38-6768-4f5b-a9fc-f5b9a558160c,PathAnnotationObject,,Image,Polygon,115967.6,33843.3,77424800.3,37608.4
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,232b412f-35f0-40c0-a595-3211adbdea18,PathAnnotationObject,,Image,Polygon,95602.2,29017.4,62548878,34626
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,18e931aa-0faf-4d98-b456-338922a301b6,PathAnnotationObject,,Image,Polygon,151478.9,80217.3,37172304.7,28045.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,3374ee1d-ab30-456e-8cd3-437c4ff5eca7,PathAnnotationObject,,Image,Polygon,12271.8,190130.2,33549580.1,23131.6
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,93da028e-9f5f-47a7-9b3d-5b9ef02b0463,PathAnnotationObject,,Image,Polygon,91200.9,153570.1,112811994.4,42494.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,d4237a4c-d87b-44c8-84bb-48df37fc03c9,PathAnnotationObject,,Image,Polygon,21577.2,44748.6,48758023,33530.1
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,14de5711-ca64-460a-8e3c-a533f0e75a52,PathAnnotationObject,,Image,Polygon,101960.2,93415.2,61236296.7,30513.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,3f1a64fa-e042-4be3-8a5d-440ec2ee5ef2,PathAnnotationObject,,Image,Polygon,143745,94800.3,56143480.9,33866.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,4745bf3e-57c8-46d5-967c-a4055e10bdd3,PathAnnotationObject,,Image,Polygon,17950.4,150729,74449615.9,37581.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,ae4dfdf9-60ab-42aa-8664-1b6f3efb762a,PathAnnotationObject,,Image,Polygon,95372,133702.2,75692192.9,33223.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,d3f7b850-3ca3-4ed9-8440-bc27a104a831,PathAnnotationObject,,Image,Polygon,127212.5,30461.4,80645000,38976.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,d1be9ee8-42f6-4efe-b69d-6d7972351178,PathAnnotationObject,,Image,Polygon,141484.2,63612.3,61988843.3,33749.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,7e13751c-ca3e-40ef-b489-29a9ce20cc49,PathAnnotationObject,,Image,Polygon,26822.8,112002.6,98146085.1,41660.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,f83a5194-7329-4d88-ae73-3a4c3070fe21,PathAnnotationObject,,Image,Polygon,140958,164006.6,84985269.1,41804.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,5b31d612-2218-431c-88e8-b8056f0ca599,PathAnnotationObject,,Image,Polygon,74848.3,165212.2,52048227,32910.1
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,923c2166-dd63-4943-908c-e6b1e300f864,PathAnnotationObject,,Image,Polygon,40461.7,134179.9,42387628,25176.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,fee7ddf6-fa84-4ff6-92c2-6361b0af7d55,PathAnnotationObject,,Image,Polygon,111473.5,136989.2,79244913.2,41804.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,9f85a2db-8f7f-45da-a4ae-3914190aea04,PathAnnotationObject,,Image,Polygon,54025.1,139909.7,101156271.7,46566.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,ec91a27f-29bd-4829-8639-727a9eae3102,PathAnnotationObject,,Image,Polygon,15566.8,52880.1,68079220.9,35866
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,465052d2-d51f-4400-9aca-94d54fa69479,PathAnnotationObject,,Image,Polygon,123086.5,109146.8,124701182,44465.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,179caaa3-a3ea-490e-9ec5-fdb64bec1182,PathAnnotationObject,,Image,Polygon,105601.2,129965.6,67361676.4,31416.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,a873952c-f65a-42ea-b5b8-e403d27fed8b,PathAnnotationObject,,Image,Polygon,68755.2,144330.7,64736513.7,31390.1
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,93b0b2c7-89b8-4ede-83c9-f72ecb1aae14,PathAnnotationObject,,Image,Polygon,52080.9,40579.9,52293242.2,33866.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,2c644e08-44d2-41cf-9bc2-fceb9a9ce3e9,PathAnnotationObject,,Image,Polygon,62663.5,51298.1,67414179.7,35491.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,12fc1df4-dd78-4568-8daf-18e7d4866283,PathAnnotationObject,,Image,Polygon,146542.5,152621.8,100351221.8,40597.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,5aa6b128-f105-4c51-9242-8029679d64d1,PathAnnotationObject,,Image,Polygon,122438.3,140765,82838586.5,34667
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,9566b547-2d6f-4944-844b-06a30c3c484e,PathAnnotationObject,,Image,Polygon,91399.4,160935.6,21141310.8,18066.9
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,eb28c665-25ad-4004-a082-8cd7e2afc555,PathAnnotationObject,,Image,Polygon,137064.4,30528.7,96360974.4,41805.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,6464d3ea-4b8e-481b-9e95-db7fd94fa145,PathAnnotationObject,,Image,Polygon,121618.7,152532.6,103676428,40132.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,0532c560-f0bc-482b-9164-21bf5ae24c79,PathAnnotationObject,,Image,Polygon,19750.4,120096.9,90480609.8,41906
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,329fc178-cc22-4905-92a6-88f020cccf6e,PathAnnotationObject,,Image,Polygon,9736.5,121925.9,74274605,32777.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,4f648735-6789-4e41-a2c3-5521687d42ed,PathAnnotationObject,,Image,Polygon,70387.7,42818.8,112952003,45738.5
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,769fbb0d-0697-46c9-81ba-a04a2f371317,PathAnnotationObject,,Image,Polygon,149046.7,54392.5,86385355.9,39452.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,9ad1a917-00d7-476b-b99c-d9246e59225c,PathAnnotationObject,,Image,Polygon,90332.8,49553,82885138.9,40345.1
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,cc7aad5f-f605-49ac-8f01-ff55d4db8e33,PathAnnotationObject,,Image,Polygon,67672.7,117260.3,88695499.1,35423
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,e85642cd-1831-4373-a625-416ff77608a6,PathAnnotationObject,,Image,Polygon,58631.9,182865.4,86542865.7,35997.6
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,b520f971-1dfc-4980-8c9c-1dcb732c075e,PathAnnotationObject,,Image,Polygon,148177.4,19825.5,87960453.6,39698.5
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,b4822cfa-b210-4c94-ba5e-59dd6af02a13,PathAnnotationObject,,Image,Polygon,34833,139363,90305599,36171.4
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,8fca57bd-04e9-42a2-b1bd-29e7ed5721a6,PathAnnotationObject,,Image,Polygon,73449.9,189891.3,44242743.1,30691.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,435c5fa4-c075-498f-9444-6962e0762aab,PathAnnotationObject,,Image,Polygon,64916.3,171642.1,37207306.9,23022
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,8179cba0-4bc5-46c6-bf48-b45b1c99e3b3,PathAnnotationObject,,Image,Polygon,68823.5,70933.6,98006076.4,43156.9
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,3561d1a8-6257-4105-b882-1b5e0aa6ec16,PathAnnotationObject,,Image,Polygon,100202.9,8907.9,93105772.6,44979.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,33369703-c647-477f-aa02-32278e666113,PathAnnotationObject,,Image,Polygon,100690.7,84704.8,71719446.6,38111
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,cb910280-b427-49a1-bfd7-fcf7d5258e20,PathAnnotationObject,,Image,Polygon,9793.8,67488.9,141408767.4,62970.8
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,559db9ce-b4f5-4325-a104-5c32b89187fc,PathAnnotationObject,,Image,Polygon,99737.8,54548.6,97376037.3,42499.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,d70d50e6-29b0-4aeb-b1c8-ab17f40b1906,PathAnnotationObject,,Image,Polygon,28359.1,174870.3,52293242.2,31258.4
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,9938e6bd-9dde-489d-ad9f-8d7a1a02909b,PathAnnotationObject,,Image,Polygon,77677.4,88065,73096432.9,40426.9
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,66cb48ed-25ad-49d9-8ffb-cee99614c0e0,PathAnnotationObject,,Image,Polygon,57668.4,17993.4,79909954.4,36833.5
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,5ec11450-65ae-463d-987e-d11cf0b10db9,PathAnnotationObject,,Image,Polygon,26747.2,56632.3,60203732.6,35582.6
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,17c9d317-89c1-4a86-b6ee-89bc0940ea37,PathAnnotationObject,,Image,Polygon,151413.3,169535.7,94873382.2,36874.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,bd6770fd-156c-4c9f-83c0-5f441889d410,PathAnnotationObject,,Image,Polygon,160346.9,41399.7,91670683.6,41596
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,88918f2f-31a4-443e-8ee6-cdf0fdbf9da5,PathAnnotationObject,,Image,Polygon,111954.5,86249.3,55793459.2,30093.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,fd859327-8e92-490b-933f-81aa87504002,PathAnnotationObject,,Image,Polygon,7513,45367.1,70669381.5,31563.9
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,693d2b5a-517e-4cac-b76e-658e6d2248bf,PathAnnotationObject,,Image,Polygon,154001.5,71028.3,69059281.7,35883
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,8f03488f-5212-46ea-9539-5ec665cd8122,PathAnnotationObject,,Image,Polygon,107155.3,146895.4,96675993.9,42809.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,fe9a82e0-a51f-4a86-8362-926aa9bad7af,PathAnnotationObject,,Image,Polygon,159074,156102.5,113477035.6,40661.5
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,94aea4ec-1202-402b-8e57-63165ef89421,PathAnnotationObject,,Image,Polygon,143802.8,75513.4,99021139.3,43493.5
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,16cce4c6-1c63-41ea-a10d-9f212955a856,PathAnnotationObject,,Image,Polygon,65281.3,133687.2,84600245.2,38111
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,169cc40a-bc73-4ed8-9e50-3ba2ca3e3d1d,PathAnnotationObject,,Image,Polygon,21088.5,82161.3,88450483.9,41174.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,c01d42e1-0ef0-42e3-8090-2378e06895ed,PathAnnotationObject,,Image,Polygon,53078.1,96155.2,76759759.1,37362.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,af422599-71da-40f0-ba27-1b8fc556456e,PathAnnotationObject,,Image,Polygon,105569.7,23816.8,107316653.6,46861.1
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,5f09565d-07ca-4375-ba71-cc24b49b065e,PathAnnotationObject,,Image,Polygon,28574.3,38200.2,17291072,16169.4
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,d9643344-ab85-4b6e-a73d-cbb072e25f4e,PathAnnotationObject,,Image,Polygon,109413.9,77145.4,99231152.3,38972.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,29db4c50-ba59-4c67-8c3e-75b748c340f8,PathAnnotationObject,,Image,Polygon,153986.7,93826.4,82675125.9,42333.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,0428bac0-105d-4640-ae8d-3f99200b396d,PathAnnotationObject,,Image,Polygon,45610.7,163103.9,112601981.3,42623.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,cd0b7f8c-b1e7-42c0-9169-11cb5556a0ed,PathAnnotationObject,,Image,Polygon,136630,152370.8,67239168.8,31654.6
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,1cc8589c-a9a7-4303-846a-c764060a418f,PathAnnotationObject,,Image,Polygon,77678.8,142294.5,76164722.2,39158.3
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,ad5bf66b-100d-419f-b1dd-3ea50930cf6e,PathAnnotationObject,,Image,Polygon,95219.6,172986.5,74659628.9,33642.9
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,7d753948-6e7a-42ed-9cc3-8158a82fc7ba,PathAnnotationObject,,Image,Polygon,80338.8,52362.9,21421328.1,20856.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,a6df2b52-b212-4ed3-a17b-145b864e0a15,PathAnnotationObject,,Image,Polygon,29986.7,123336.9,89465546.9,40993.1
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,47558ad5-b237-4887-ba6c-dfb266d33dfd,PathAnnotationObject,,Image,Polygon,62032.7,148842.3,35352191.8,26586.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,653e5545-deda-4122-a0ac-988de68221aa,PathAnnotationObject,,Image,Polygon,54060.2,30005.8,95520922.3,42125.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,435d09c2-5ba0-4a9e-a206-0d9c6e2c499a,PathAnnotationObject,,Image,Polygon,154796.6,28955,89815568.6,36609.7
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,78e9879d-caae-47d3-af8e-a0e8168e9f67,PathAnnotationObject,,Image,Polygon,110252.8,187363.5,68201728.5,33574.5
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,885feba2-5fc4-4728-b8d4-0a5a35660f46,PathAnnotationObject,,Image,Polygon,98268.4,187557.8,109364280.6,42651.6
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,553e8f9e-1202-4b96-8948-9db8094b5415,PathAnnotationObject,,Image,Polygon,75691.6,112938.3,55723454.9,31681.2
+L23-1 Cryo Exp 15 ms Gain 1 Satur 100.tif,a256a89f-15ef-4c65-b0ac-aa27544da678,PathAnnotationObject,,Image,Rectangle,84005.2,96969.8,32583870204,723900
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,764c47fb-ef59-4f18-8a90-764e137a098f,PathAnnotationObject,,Image,Polygon,16874.5,20916,62618882.4,36485.9
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,d78df466-d399-4a8c-8695-d72cc747ceca,PathAnnotationObject,,Image,Polygon,102154.5,81783,67694197,36678.5
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,d5d75968-6bd8-4386-bef2-0515379d6cfe,PathAnnotationObject,,Image,Polygon,21380.2,7984,71859455.3,36614.3
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,dc06663c-e8ce-4c1e-a7de-c4547e0556f6,PathAnnotationObject,,Image,Polygon,48532.6,44738.8,71264418.4,39158.3
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,49fbab8f-5d6a-4186-b977-e4b3bad1d5cf,PathAnnotationObject,,Image,Polygon,92553.2,38195.8,74694631.1,40216.7
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,9978e4a3-2043-401c-bfde-95d61481c9fa,PathAnnotationObject,,Image,Polygon,93358.9,46429.2,55548444,32910.1
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,a0100e90-3a55-4a18-a8a7-1803bae74eeb,PathAnnotationObject,,Image,Polygon,15428.3,63831.7,19321197.9,19579.2
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,b98086af-5338-479a-8ff8-2fa9ab390b91,PathAnnotationObject,,Image,Polygon,21602.3,52970.5,31536955.3,24315.1
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,d4ab68b2-9bc9-4905-8371-bce672551f30,PathAnnotationObject,,Image,Polygon,97493,72284.5,42842656.2,31349.2
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,04019233-03ba-4bc5-9ef6-eeaec415aa22,PathAnnotationObject,,Image,Polygon,48306.8,19790.5,69409303.4,36705.1
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,54f4b4b9-71c5-4a61-9481-e8cb8e4132a6,PathAnnotationObject,,Image,Polygon,88949.9,31029.2,65874084.2,36769.3
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,16b8f605-6cd6-4e8d-b1c2-3a6d114099eb,PathAnnotationObject,,Image,Polygon,78783.6,23024.8,68919273,35775.2
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,1ec8eb6a-9b6a-453b-8880-8372768678d8,PathAnnotationObject,,Image,Polygon,25888.7,43178.7,76864765.6,39158.3
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,6b3906e7-e542-46f6-9e00-3275a48a2264,PathAnnotationObject,,Image,Polygon,5497.6,46828.6,34722152.8,32808.3
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,3d88135d-ee58-4c6d-b46f-0fd14149c3db,PathAnnotationObject,,Image,Polygon,38057,55761.1,94995889.8,47625
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,105d1bd2-489e-4cae-8dda-cc4c0870b9d2,PathAnnotationObject,,Image,Polygon,25639.6,68779,68989277.3,38292.6
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,0d927d20-9e50-421a-adbe-123cbbc2a809,PathAnnotationObject,,Image,Polygon,44665.9,65058.4,56703515.6,34395.8
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,da8dec66-6406-4c65-932e-e6abaac86d7e,PathAnnotationObject,,Image,Polygon,84906,17547.6,56913528.6,37041.7
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,d4c95af1-b82f-4448-9059-46631e832654,PathAnnotationObject,,Image,Polygon,32654.5,28435.7,31396946.6,23876.7
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,325259bb-2fb1-4e04-b3f0-d85caec90c48,PathAnnotationObject,,Image,Polygon,18525.3,60415,16661033,18520.8
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,8a8c8ceb-95a8-4712-bfde-12139cf080ae,PathAnnotationObject,,Image,Polygon,79344,75684,50123107.6,31568.4
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,a666f66d-079c-4cc9-b5d7-38cd4bb762fb,PathAnnotationObject,,Image,Polygon,45680.6,80885.3,25376573.4,22508.4
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,9600b4c6-a6dd-4070-b515-1d4e25c60aa0,PathAnnotationObject,,Image,Polygon,38063.2,77605.8,53553320.3,32279.2
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,f2038b90-9d41-4b5b-ac0d-29cfaf20f439,PathAnnotationObject,,Image,Polygon,119050.1,65793.1,66609129.8,34588.4
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,8fd09fc4-60cf-4d48-9851-0a1638c050dc,PathAnnotationObject,,Image,Polygon,68189.5,74031.5,69094283.9,39687.5
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,b2b94503-07ea-49e2-8f7f-677187e292bf,PathAnnotationObject,,Image,Polygon,6234.9,30446.1,65734075.5,36512.5
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,c987d5e3-813d-452f-902c-fc5badb112c3,PathAnnotationObject,,Image,Polygon,70728.6,41833.7,91355664.1,41275
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,5f12631a-10c2-4bb8-aefb-662b9379f4bc,PathAnnotationObject,,Image,Polygon,102078.4,54018.5,97026015.6,44450
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,bea46184-1aa6-4f8c-bd52-f54e5b5e5e0d,PathAnnotationObject,,Image,Polygon,70459,56525.7,67204166.7,35582.6
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,a3bd4b21-2b73-4642-9c06-790298561f53,PathAnnotationObject,,Image,Polygon,63251.8,52022.3,50473129.3,32097.6
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,4c669540-9655-4b96-9378-c6d126565653,PathAnnotationObject,,Image,Polygon,5795,67704.8,39552452.3,27115.9
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,86501ef1-e704-471f-9192-ae14a72b637b,PathAnnotationObject,,Image,Polygon,86554.3,55643,76164722.2,39158.3
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,a55b8f50-f0e6-4a2e-bc12-bfcc055a7320,PathAnnotationObject,,Image,Polygon,102769.8,21158.3,58733641.5,34395.8
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,a88295d5-2506-4ca9-b89f-713bb9ffd636,PathAnnotationObject,,Image,Polygon,8248.2,40471.5,49318057.7,32033.4
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,e983064c-a798-43a9-9779-1965f63b7784,PathAnnotationObject,,Image,Polygon,101728.9,5680.5,65629069,35026.8
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,310f6226-bcfa-47ea-b034-f052d8b48396,PathAnnotationObject,,Image,Polygon,70543.4,30810.1,61218795.6,34497.6
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,fa9f955a-6afc-4be5-a41c-9649d951a387,PathAnnotationObject,,Image,Polygon,48890,53323.6,51313181.4,31750
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,ad2c76df-6168-4b69-88dc-85f79be2ef7e,PathAnnotationObject,,Image,Polygon,19085.9,77377.1,79174908.9,41275
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,db13b016-e8d6-4de5-84a6-da46a9763b9a,PathAnnotationObject,,Image,Polygon,42822.9,27929.2,70564375,36860.1
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,2a9f6f7e-e671-4219-a42b-5800ac00fd6a,PathAnnotationObject,,Image,Polygon,108464.1,74145.8,83480175.8,38020.2
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,6fc1860a-5de1-4d94-9b87-6b43f4483ece,PathAnnotationObject,,Image,Polygon,23730.5,85806.3,56563506.9,32188.4
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,b759a8bd-795d-4833-b59d-b74d1c9bd5b6,PathAnnotationObject,,Image,Polygon,119754.7,55714.2,95625928.8,42408.5
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,00c56e8b-408a-4d9d-a85d-8a25154d1438,PathAnnotationObject,,Image,Polygon,113089,34037.8,60028721.8,34278.5
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,302a8815-220b-4ead-9d02-a7572911683c,PathAnnotationObject,,Image,Polygon,103458.9,63322.3,69374301.2,39158.3
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,5d2d3436-2fac-4aff-a961-19e2dacdf88c,PathAnnotationObject,,Image,Polygon,18453.3,44744.9,32342005.2,28045.8
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,eec14b60-9abe-4e54-9dec-547257ad14ab,PathAnnotationObject,,Image,Polygon,14587.7,52963.1,80855013,39687.5
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,1452bf61-de92-4ba1-9fba-d868ffe48f3f,PathAnnotationObject,,Image,Polygon,60806.3,42875.4,80504991.3,41804.2
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,75d78038-df15-4a8e-afdc-7122d61c1d96,PathAnnotationObject,,Image,Polygon,8736.3,60140.7,36367254.8,26741.7
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,81d60e79-3095-46b1-9acd-ea3b74a24772,PathAnnotationObject,,Image,Polygon,74865.8,66130.2,107176645,50270.8
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,f55e926a-955a-4878-95d3-12c2c266eeba,PathAnnotationObject,,Image,Polygon,36746.1,84281.5,51663203.1,32626.8
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,5cac8cd2-74ab-4966-8c5d-ebfdacb76b2d,PathAnnotationObject,,Image,Polygon,87734,9532,63143914.9,35983.3
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,97affc1e-9e3a-472f-b470-87985eb9bc27,PathAnnotationObject,,Image,Polygon,121103.9,41587.7,84145217,38356.8
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,2880ab48-4055-41cd-b8dc-655ac9640423,PathAnnotationObject,,Image,Polygon,17719.2,32455,91950701,41286
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,852b0ad8-9e61-44c4-8b70-1f344aa9200c,PathAnnotationObject,,Image,Polygon,111228.1,24489.2,83025147.6,38666.8
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,5948eddf-1e77-4543-9b8d-500b49d9be18,PathAnnotationObject,,Image,Polygon,80568.6,50642.2,61953841.1,37827.6
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,29f28ed2-1f5b-4a1c-8bb9-b172a3821db1,PathAnnotationObject,,Image,Polygon,36242.5,67588.5,61883836.8,34395.8
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,e274b456-abc4-42f5-b031-064b5700c71b,PathAnnotationObject,,Image,Polygon,78791.9,6147.1,46097858.1,31194.2
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,4aba4719-2e89-40e3-8c7e-70b3da5f4854,PathAnnotationObject,,Image,Polygon,96156.2,13015.9,53168296.4,31632.6
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,9875113c-c192-4b0b-9f5a-c4c38b66fb6d,PathAnnotationObject,,Image,Polygon,107080.1,10624,38082361.1,27645.1
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,466e2117-e1b3-494f-991b-634155990e85,PathAnnotationObject,,Image,Polygon,27264.6,60121.4,45362812.5,29542.5
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,37fefe49-8e67-49af-af49-d974bc1507e2,PathAnnotationObject,,Image,Polygon,92079.4,20966.7,52573259.5,36512.5
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,b9919fcc-6388-4dfe-bb0e-bbc421c824d5,PathAnnotationObject,,Image,Polygon,98914.7,28179.2,47357936.2,29825.9
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,a5a7adb6-b87b-45b7-abf3-9a46027bf484,PathAnnotationObject,,Image,Polygon,4762.5,50944.8,31081927.1,24870.8
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,73dc7790-648f-48d4-8659-0c37e5da588a,PathAnnotationObject,,Image,Polygon,113064.5,47870.3,64403993.1,35711
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,b7c91d80-a1bb-4f52-b3fa-41e1c931f499,PathAnnotationObject,,Image,Polygon,61438,67643.4,93105772.6,46566.7
+L24 Cryo 2 Exp 16 ms Gain 1 Satur 100.tif,952a214a-49ea-428f-b982-7e69d970172c,PathAnnotationObject,,Image,Polygon,37107.3,42977.1,81695065.1,41275
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,4b87ad82-c7ab-4701-84de-f6aa50ad6f86,PathAnnotationObject,,Image,Polygon,43005.8,81238.7,56318491.8,32781.7
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,1fb68882-4d98-49fd-ba0b-72116ec16c2d,PathAnnotationObject,,Image,Polygon,45241,90232.2,77739819.9,38474.2
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,81fe0f33-5edc-4317-8a8a-bad5b02ea4e9,PathAnnotationObject,,Image,Polygon,11707.4,93692.2,69864331.6,43920.8
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,00bd82cc-783b-477b-8865-3412c70eb3e0,PathAnnotationObject,,Image,Polygon,50734.4,44940.3,43647706.2,30445.9
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,0ebbc735-ed06-4986-9f8c-c4ae806e510b,PathAnnotationObject,,Image,Polygon,67505.3,54430.5,78369858.9,39479.3
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,2afac937-b364-4caf-a741-211e73ecb7bc,PathAnnotationObject,,Image,Polygon,40901.2,3615.5,59328678.4,35828.3
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,ca088d62-9448-42e1-9309-1f3dcdb94cef,PathAnnotationObject,,Image,Polygon,78807.5,99627.7,50683142.4,33866.7
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,feddabed-63b7-4440-9533-f01fe3e24f47,PathAnnotationObject,,Image,Polygon,56826.5,56049.8,76864765.6,38137.6
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,097595de-eb19-4a39-b3fd-26149cf29293,PathAnnotationObject,,Image,Polygon,22586.4,96208.9,79944956.6,40216.7
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,b3aa6e53-5b72-4ee1-92e7-c87ed494827c,PathAnnotationObject,,Image,Polygon,84201.4,79509.2,64508999.6,36155.4
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,80a9c46e-6392-42cd-9ebd-e9bcd61a6bad,PathAnnotationObject,,Image,Polygon,22307.8,66204.9,80329980.5,41815.2
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,17e72b4d-1e74-4f7a-bcd6-828956b6ab4d,PathAnnotationObject,,Image,Polygon,75083.3,66615.5,111446909.7,48683.3
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,c650ac20-55f1-4d25-bdfb-0956b65be234,PathAnnotationObject,,Image,Polygon,30560.6,96844.6,13020807.3,15035.9
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,c0fc7325-7ea9-41a3-b957-0796730f689e,PathAnnotationObject,,Image,Polygon,63805.5,8702.6,98076080.7,44979.2
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,81551828-5461-4619-aabc-875835805388,PathAnnotationObject,,Image,Polygon,77117.6,10978.9,43752712.7,30691.7
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,fbc9ed4b-8cf0-4609-a271-1bc7284dbeda,PathAnnotationObject,,Image,Polygon,45035.6,9683.7,37487324.2,28949.2
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,04366918-43a2-4963-b77d-7d2bbdd7e9ab,PathAnnotationObject,,Image,Polygon,24911.3,25335,36577267.8,27270.9
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,ddcd2633-3263-4c75-962f-cf0bdc24e0d4,PathAnnotationObject,,Image,Polygon,32044.3,5541.2,73819576.8,38602.6
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,765e2807-a33a-4ae1-8799-d2430650df6b,PathAnnotationObject,,Image,Polygon,14414.8,20220.3,70389364.1,36085.1
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,640b55e1-de42-49cf-9b29-36f7891f957c,PathAnnotationObject,,Image,Polygon,48004.9,51698.4,70984401,41275
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,a1801d47-f95b-4279-b96a-223b8789ae77,PathAnnotationObject,,Image,Polygon,87705.6,15065.1,88450483.9,44295
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,6b8919f6-0eaf-495d-bf50-733588dcfaed,PathAnnotationObject,,Image,Polygon,72666.7,17614.2,72979524.7,38731
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,87949036-7516-4fd6-b83a-3d555149e4e1,PathAnnotationObject,,Image,Polygon,56815.1,40697.4,31151931.4,24780
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,4d5510d2-02e8-43c5-b586-b19866912270,PathAnnotationObject,,Image,Polygon,76748,112546,53308305.1,34770
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,4f4b4aa2-e225-44fd-88e8-6e66a0f23252,PathAnnotationObject,,Image,Polygon,44393.7,98271.2,37907350.3,27490.1
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,e29a47e1-914e-40d1-a62f-e741c259f79d,PathAnnotationObject,,Image,Polygon,53269.6,104449.5,83550180.1,38239.4
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,f7060748-8bef-4dff-a0a3-7d8d1de29cd8,PathAnnotationObject,,Image,Polygon,55472.3,13571,89675559.9,45727.5
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,cfa4faa6-3db7-4cd7-8e9b-4f171d904bc3,PathAnnotationObject,,Image,Polygon,71854,74089.9,14140876.7,17462.5
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,2b19baff-7e2b-46a5-9d93-a0a8a021de5f,PathAnnotationObject,,Image,Polygon,36147.9,13606.8,77249789.5,39041
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,85c04891-ae5f-4b11-b574-56c34d978efa,PathAnnotationObject,,Image,Polygon,64355.9,72404.6,66119099.4,35336.8
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,a1da757e-1593-4e13-9b20-471c80d936ce,PathAnnotationObject,,Image,Polygon,23010.4,13106.8,72909520.4,37143.5
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,dbe30b68-084e-487c-8e73-8cd21f9616f8,PathAnnotationObject,,Image,Polygon,40632.8,54551.4,60553754.3,39158.3
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,c353929e-f1ef-4aab-accb-4d25e8abef2c,PathAnnotationObject,,Image,Polygon,54214.7,113615.9,52398248.7,33182.5
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,7e337457-f030-4185-94a3-11d343e9a059,PathAnnotationObject,,Image,Polygon,89971.2,57455.3,49773085.9,31787.6
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,aa88cf81-6172-4cfb-a777-05aec561f744,PathAnnotationObject,,Image,Polygon,13386,82727.6,92720748.7,42125.2
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,c88966c7-3f23-42e8-a3c0-180deaa85b9d,PathAnnotationObject,,Image,Polygon,70734.5,89574.5,98146085.1,45508.3
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,be09ecfb-1842-48f2-8fae-784fecba9dc2,PathAnnotationObject,,Image,Polygon,25629.6,86166.8,77879828.6,39041
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,555813b3-01a5-4aa9-a75f-8e29ebf98524,PathAnnotationObject,,Image,Polygon,41917.8,23979.7,125097756.1,49741.7
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,0933c01e-a617-4e98-9437-49f2fe539a6a,PathAnnotationObject,,Image,Polygon,13701,102397,93175776.9,43920.8
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,24c02802-9862-4742-9e16-a84a9bab8e7c,PathAnnotationObject,,Image,Polygon,5051.2,110101.5,79839950.1,37453.5
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,46df0885-a09e-4197-a5dd-c4b13252eb3f,PathAnnotationObject,,Image,Polygon,58745.1,78438.6,67904210.1,41804.2
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,dd92d2ab-8736-4cfb-9496-ee9e3d9d633a,PathAnnotationObject,,Image,Polygon,53758.1,69528.4,78929893.7,38950.2
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,ab3b1867-394c-46c5-a919-1a569b8dff26,PathAnnotationObject,,Image,Polygon,26727.4,74718.6,59853710.9,33465.9
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,89ea1bdc-0890-4b5e-8f08-b46919831ef4,PathAnnotationObject,,Image,Polygon,53842.4,84113.1,112286961.8,54504.2
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,b442492e-b752-4745-a4df-70ea32402165,PathAnnotationObject,,Image,Polygon,59063.5,31556.3,101471291.2,45353.3
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,75473a23-a517-45be-8ac6-ab6761fd07ad,PathAnnotationObject,,Image,Polygon,91252.6,114102.5,57228548.2,31723.4
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,5a7a78d3-90b9-4386-88a4-b7960ea51cd2,PathAnnotationObject,,Image,Polygon,32178.4,59498.1,104271464.8,43931.8
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,6a3897b5-7117-4283-babc-6cfb19cd4f9a,PathAnnotationObject,,Image,Polygon,36398.5,92374.1,53623324.7,35454.2
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,7dcb9a53-b808-4239-bcb3-a597815afd32,PathAnnotationObject,,Image,Polygon,63307.2,22984.4,72419490,40590.8
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,23b86f0e-3cf2-42d0-afa2-5f45fc315937,PathAnnotationObject,,Image,Polygon,18294.5,31761.8,43647706.2,29478.3
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,f6b81e89-ee2d-451e-8037-1000c6b48235,PathAnnotationObject,,Image,Polygon,89413.4,87019.9,67694197,39158.3
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,875ad919-a570-4ede-a626-fe579a2a1d4b,PathAnnotationObject,,Image,Polygon,34789.3,74118.2,93840818.1,40446.9
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,cbc85dae-e8d9-4f47-aa6b-73f0ff541759,PathAnnotationObject,,Image,Polygon,68029.3,100320,73574561.6,40745.8
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,3889be3f-579c-4479-889d-c06f2d691515,PathAnnotationObject,,Image,Polygon,5196,20379.8,46482881.9,30600.9
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,a739c7da-53e8-4ba9-a638-360090840c54,PathAnnotationObject,,Image,Polygon,19610.1,6674.5,38047358.9,28767.6
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,ff6a1512-37be-4421-a2a1-e9c074c41531,PathAnnotationObject,,Image,Polygon,46781.4,35378.5,60728765.2,35518.4
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,93706cf2-151f-47be-8b23-b3f9e5cfcaa6,PathAnnotationObject,,Image,Polygon,73172.3,45244.3,70144349,38100
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,664a1d7b-9fee-46de-b41a-6ed9e29d10ec,PathAnnotationObject,,Image,Polygon,80103.4,57355.4,78229850.3,41120
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,77756a8d-2a29-4150-bb0e-8b97dab149dd,PathAnnotationObject,,Image,Polygon,84588.4,47808,71999464,41120
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,6e3b0bb6-a6eb-4a93-abae-5a7416bd6141,PathAnnotationObject,,Image,Polygon,46876.8,16367.7,19706221.8,19862.6
+L27-1 Cryo Exp 23 ms Gain 1 Satur 100.tif,6164f578-1229-4249-aca6-f0fa70a72e22,PathAnnotationObject,,Image,Polygon,62028.7,106372.2,77389798.2,44642.6
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,f5fde12a-0cb1-4ae2-9184-67e0cea2dbfb,PathAnnotationObject,,Image,Polygon,84188.5,19202.9,32105952.3,25906.2
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,ea5b4c67-4538-4044-85c8-de03396e218f,PathAnnotationObject,,Image,Polygon,77759.1,37130.7,115469390.1,49219.4
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,6fd47ae4-0fbd-4f2d-b183-0cc7f8de3087,PathAnnotationObject,,Image,Polygon,61463,39002.5,75345702.7,39163.8
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,6b8dcf4e-480b-4736-ac5f-e1d6d59c2412,PathAnnotationObject,,Image,Polygon,85145.7,57884.3,73244986.1,39163.8
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,ade08202-c317-4cab-87d2-ed176fa2dc00,PathAnnotationObject,,Image,Polygon,11209.1,52715.6,93481889.5,44456.2
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,8370c246-e62b-4d0a-865f-2dee9a988c37,PathAnnotationObject,,Image,Polygon,48880.4,20723.3,67888158.7,31311.4
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,c14bb1cd-33a7-4d17-aca5-7beed2f490a4,PathAnnotationObject,,Image,Polygon,64917,69640.4,27029220.5,24345.1
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,954396f9-e83a-4f5c-adb4-4a8bc11f8f77,PathAnnotationObject,,Image,Polygon,85680.2,71192.6,81402768.9,34524.5
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,bf29244e-b7cf-439c-8309-db5a43aeff65,PathAnnotationObject,,Image,Polygon,17109.9,37558.6,53078106.5,32812.9
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,9d00c7b3-2b08-46a1-9a23-74718e39332c,PathAnnotationObject,,Image,Polygon,15864.8,44826.2,36972612.5,26789.1
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,edd8107d-26be-4134-9ebd-26ac6ec7689e,PathAnnotationObject,,Image,Polygon,47529.6,61048.8,84378784.1,42339.2
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,b194a49a-b8ce-4f18-8bea-4d19cdce540f,PathAnnotationObject,,Image,Polygon,40854.7,95599.5,78146658.2,40751.5
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,d53ba263-74a4-475f-a796-341920fcd09a,PathAnnotationObject,,Image,Polygon,22819.4,58898,60570662.5,36026
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,2b4b6d91-3bee-41d6-9d84-471b1ee4ad2d,PathAnnotationObject,,Image,Polygon,68039,28525.8,107276595.3,51336.3
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,884c5d14-ff9f-44a2-981a-30552764c00f,PathAnnotationObject,,Image,Polygon,78247.4,91124.5,74295344.4,39693
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,982a59f4-9dc4-4f9c-8f0f-85f7a6b2001b,PathAnnotationObject,,Image,Polygon,67739,59614.9,81297733.1,42339.2
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,75655fa9-d19b-44bb-bfb0-c278ce534378,PathAnnotationObject,,Image,Polygon,6365.7,62023.9,77096299.9,40751.5
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,96f773d6-80b8-43f4-906e-1b0ff4575e8a,PathAnnotationObject,,Image,Polygon,32932.7,20295.8,84238736.4,43195.6
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,4fb60430-f639-46f3-bff4-0634662403f4,PathAnnotationObject,,Image,Polygon,8979.3,42476.3,39353424.6,29017.4
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,42c07bd6-904d-4e01-8cb9-685740df6354,PathAnnotationObject,,Image,Polygon,71614.5,45866.8,61866104.4,34593.3
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,90a73a2e-fb77-47dc-9aad-b306354c83ee,PathAnnotationObject,,Image,Polygon,32114.3,48527.2,43239750.4,29595.3
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,b2e50f38-06eb-4e42-99e6-33f6c7b1bf28,PathAnnotationObject,,Image,Polygon,48987,87046.3,53148130.4,35459.1
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,e173aa84-8c17-4327-859f-0eeb23e69d77,PathAnnotationObject,,Image,Polygon,37364,13158.6,87529859.1,44985.4
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,0106de55-0b01-4da0-90e5-171b78a12f3e,PathAnnotationObject,,Image,Polygon,20382,15018.1,97263179.4,46900.3
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,3cddafc1-55af-4df3-b334-a18fe7e00ec1,PathAnnotationObject,,Image,Polygon,18294.4,78359.6,25488695,23815.8
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,43213b36-d0ce-4e43-852a-501610af7a3f,PathAnnotationObject,,Image,Polygon,18939.5,98771.1,40928962.1,26964.7
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,386c6581-1272-46f5-b9b3-04374c42463a,PathAnnotationObject,,Image,Polygon,48230.6,44282.3,70444030.6,39163.8
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,878a67bd-2217-4668-a6fe-dcfefcd9ea38,PathAnnotationObject,,Image,Polygon,24751,93022.7,57909754.8,34929.9
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,45f4d1bc-59ec-4f38-8980-799fa28cc406,PathAnnotationObject,,Image,Polygon,29631.6,68131.8,86899644.1,41810
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,101386bc-bca4-4f5e-ab90-715e78bb9917,PathAnnotationObject,,Image,Polygon,38654.7,64099.2,71004221.7,38105.3
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,778a5b1a-b71f-43cc-b29f-b45bbc39ae6a,PathAnnotationObject,,Image,Polygon,40464.6,74506.9,80527470.3,35080.3
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,4bdc659d-355f-40c9-b5ab-7c9912aaacfd,PathAnnotationObject,,Image,Polygon,16571.9,88241.1,36412421.4,28376.8
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,32154135-d465-4390-9c3f-881822edd770,PathAnnotationObject,,Image,Polygon,52571,34751.3,61270901.3,35988.4
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,9d8aea01-2858-4e60-aae7-fa10f19d5ffe,PathAnnotationObject,,Image,Polygon,57732.9,51810.5,102164851.5,38913.4
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,c6dfd8cb-0ec3-4628-8735-fe7446c55420,PathAnnotationObject,,Image,Polygon,17923.6,67333.4,93902032.8,46043.9
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,7bd2a65c-756e-417a-b9fa-d1d1f5babf51,PathAnnotationObject,,Image,Polygon,26611.8,76694.1,81577828.6,42339.2
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,486c86c2-cdf1-412c-99e3-70bddfa26823,PathAnnotationObject,,Image,Polygon,41888,5812.6,80247374.8,40751.5
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,90703a23-645e-4524-a5f1-e71fd61e89ef,PathAnnotationObject,,Image,Polygon,77588.6,79739.5,91871340.1,36267.2
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,c7ef07db-c0c0-476a-947b-5cc15d55b564,PathAnnotationObject,,Image,Polygon,19919.9,83039.5,26749124.9,23815.8
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,57ccafc8-d6f1-4bff-bae7-39c7320ac5cc,PathAnnotationObject,,Image,Polygon,24862.9,48224.5,89490527.9,43927
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,5916c505-1fd6-4852-9dc3-7f0e3a1b49ad,PathAnnotationObject,,Image,Polygon,78982.2,8474,79617159.8,46573.2
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,2713cfad-e394-4846-a9da-16c0104cfc77,PathAnnotationObject,,Image,Polygon,56676,17114.5,53918393.2,27852.6
+L27-1 Cryo 2 Exp 23  ms Gain 1 Satur 100.tif,7fd48850-8d49-4faa-89f9-79fe0f27c8f8,PathAnnotationObject,,Image,Polygon,38038.1,51041.4,42154380.1,31754.4
